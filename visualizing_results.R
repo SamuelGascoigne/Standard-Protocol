@@ -1,4 +1,4 @@
-# Install packages
+## Install packages and set-up ----
 
 library(tidyverse)
 library(viridis)
@@ -12,6 +12,11 @@ library(forcats)
 showtext_auto()
 font_add_google("Montserrat", "Montserrat")
 
+
+
+
+
+## Building figure 1 ----
 
 # Read in the survey response data
 
@@ -137,6 +142,11 @@ figure_1_plot <- summary_survey_results |>
 figure_1_plot # 650x700 (dimensions the plot was printed with)
 
 
+
+
+## Building figure 2 ----
+
+
 # Import data from the screen of papers from COMADRE and COMPADRE
 
 paper_screen_data <- read.csv("data/Merged_paper_screen.csv")
@@ -218,6 +228,8 @@ screen_bar_graph <- summarized_data |>
 screen_bar_graph #650x650 (dimensions the plot was printed with)
 
 
+
+## Building figure 3 ----
 
 # The types that each publication can fall into are:
 # "inadequate", "A", "A+VR", "A+VR+Pop", "A+VR+Eco","A+VR+Pop+Eco"
@@ -324,7 +336,7 @@ matrix_type_plot <- ggplot(data_matrix_type, aes(ymax=ymax, ymin=ymin, xmax=4, x
   coord_polar(theta="y") +
   xlim(c(-6, 4)) +
   theme_void() 
-matrix_type_plot # 700 x 700
+matrix_type_plot # 700 x 700 (dimensions the plot was printed with)
 
 # Now for the COMADRE figure
 
@@ -422,4 +434,4 @@ matrix_type_plot <- ggplot(data_matrix_type, aes(ymax=ymax, ymin=ymin, xmax=4, x
   coord_polar(theta="y") +
   xlim(c(-6, 4)) +
   theme_void()
-matrix_type_plot # 700 x 700
+matrix_type_plot # 700 x 700 (dimensions the plot was printed with)
