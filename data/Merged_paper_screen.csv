@@ -1,0 +1,978 @@
+﻿digitizer,database,DOI,first_authour,journal,species,publication_date,census_date,projection_interval,life_cycle_diagram,matrix_presence,vital_rate_calculations,latitude_longitude,location,population_vectors
+1,Compadre,10.1007/s11258-010-9762-5,Bermingham,Plant Ecology,Polemonium vanbruntiae,2010,1,1,1,1,1,0,1,0
+1,Comadre,10.1890/07-0774.1,Morris,Ecology,Alaria nana/Ardisia escallonioides/Ardisia elliptica/Argyroxyphium sandwicense/Calathea ovandensis/Collinsia verna/Dicerandra frutescens/Eriogonum longifolium/Eryngium capitatum/Heliconia acuminata/HudsoniaÂ montana/Pleurophycus gardneri/Postelsia palmaeformis/Silene acaulis/Trillium grandiflorum/Ambystoma tigrinum/Andraca bipunctata/Bupalis piniarius/Calidris pusilla/Capreolus capreolus/Cervus elaphus/Colias alexandra/Euphydryas gillettii/GrusÂ americana/Leptidea sinapis/Leptinotarsa decemlineata/Leptohylemyia coarctata/Mesopsocus immunis/Mesopsocus unipunctatus/Oreamnos americanus/Ovis aries/Ovis canadensis/Rangifer tarandus/Scolytus ventralis/Tyria jacobaeae,2008,1,0,0,0,0,0,0,0
+1,Compadre,10.2307/1939207,Huenneke,Ecology,Alnus incana spp. rugosa,1987,1,1,0,1,1,0,1,0
+1,Comadre,10.1016/j.jembe.2011.07.018,Mercado-Molina,Journal of Experimental Marine Biology and Ecology,Amphimedon compressa,2011,1,1,0,1,1,1,1,1
+1,Compadre,10.1890/05-0195,Shea,Ecology,Carduus nutans,2005,1,1,1,1,1,1,1,0
+1,Comadre,10.1163/15685381-00002843,Zuniga-Vega,Amphibia-Reptilia,Sceloporus grammicus,2012,1,1,1,1,1,1,1,0
+1,Compadre,10.1007/s10531-004-0827-4,Sinha,Biodiversity and Conservation,Phyllanthus emblica ,2005,1,1,0,1,1,1,1,0
+1,Comadre,10.1111/j.1558-5646.2011.01366.x,Gamelon,Evolution ,Sus scrofa scrofa,2011,1,1,1,1,1,0,1,0
+1,Compadre,10.3159/1095-5674(2007)134[369:PEOPHO]2.0.CO;2,Reddoch,Journal of the Torrey Botanical Society,Platanthera hookeri,2007,1,1,1,1,1,1,1,1
+1,Comadre,10.1007/s10980-013-9896-7,Hovick,Landscape Ecology ,Ammodramus savannarum,2013,1,,0,1,1,0,1,0
+1,Comadre,10.1111/eea.12325,Cibils-Stewart,Entomologia Experimentalis et Applicata,Brevicoryne brassicae L. ,2015,1,1,1,1,1,1,1,0
+1,Comadre,10.1017/S0376892917000340,Pickett,Environmental Conservation ,Platalea minor,2017,1,1,1,1,1,0,1,0
+1,Compadre,10.1086/284803,Platt,American Naturalist ,Pinus palustris,1988,1,1,0,1,1,0,1,1
+1,Compadre,10.1086/510758,Campbell,The American Naturalist,Ipomopsis aggregata/tenuituba,2007,1,1,0,1,1,0,1,0
+1,Comadre,10.1111/j.1523-1739.2003.00191.x,Holmes,Conservation Biology,Eumetopias jubatus,2003,1,1,0,1,1,0,1,0
+1,Comadre,10.1016/S0006-3207(03)00171-X,Martinez-Gomez,Biological Conservation,Puffinus auricularis auricularis ,2004,1,1,0,1,1,0,1,1
+1,Comadre,10.3354/meps081031,Ebert ,Marine Ecology Progress Series ,Strongylocentrotus franciscanus,1992,1,1,0,1,1,1,1,1
+1,Compadre,10.1111/j.1442-1984.1993.tb00062.x,Whigham,Plant Species Biology,Cynoglossum virginianum L.,1993,1,0,0,0,1,1,1,1
+1,Compadre,10.1371/journal.pone.0075563,Cerna,PLOS ONE,Anthericum liliago L./ramosum L.,2013,1,1,0,1,1,0,1,0
+1,Comadre,10.1111/1365-2656.12399,Oâ€™Farrell,Journal of Animal Ecology,Sparisoma viride,2015,1,1,0,1,1,0,1,1
+1,Comadre,10.1111/mms.12427,DeLong,Marine Mammal Science ,Zalophus californianus,2017,1,1,0,1,1,1,1,1
+1,Compadre,10.1111/j.1365-2664.2004.00990.x,Emery,Journal of Applied Ecology,Centaurea maculosa,2005,1,1,1,1,1,0,1,1
+1,Compadre,10.1017/S0266467402002018,Zuidema,Journal of Tropical Ecology,Bertholletia excelsa,2002,1,1,0,1,1,0,1,1
+1,Compadre,10.1111/j.2041-210X.2011.00104.x,Travis,Methods in Ecology and Evolution,Rhododendron ponticum,2011,0,1,0,1,1,1,0,0
+1,Compadre,10.2307/3237044,Abe,Journal of Vegetation Science ,Styrax obassia ,1998,1,1,1,1,1,0,1,1
+1,Compadre,10.1111/j.1365-2745.2005.01007.x,Van Mantgem,Journal of Ecology,Abies concolor/Abies magnifica/Calocedrus decurrens/Pinus jeffreyi/Pinus lambertiana/Pinus ponderosa,2005,1,1,0,1,1,0,1,0
+1,Compadre,10.2307/3236906,Tolvanen,Journal of Vegetation Science ,Carex aquatilis ssp. stans/Carex membranacea/Eriophorum angustifolium ssp. triste,2001,1,1,1,1,1,1,1,1
+1,Compadre,10.1016/j.biocon.2009.12.037,Auestad,Biological Conservation,Pimpinella saxifraga,2010,1,1,1,1,1,1,1,0
+1,Comadre,10.1038/s41467-018-03506-3,Van de Walle,Nature Communications ,Ursus arctos,2018,1,1,1,1,1,1,1,1
+1,Compadre,10.1007/s10144-009-0143-7,Bremer,Population Ecology,Asplenium scolopendrium,2010,1,1,0,1,1,0,1,0
+1,Compadre,10.2307/2937136,Horvitz,Ecological Monographs,Calathea ovandensis,1995,1,1,0,1,1,0,1,1
+1,Comadre,10.1016/S0304-3800(03)00171-6,Freedman,Ecological Modelling,Ursus americanus,2003,0,1,1,1,1,0,1,0
+1,Comadre,10.2307/2641117,Lindenmayer,Ecological Applications,Petauroides volans/Trichosurus caninus/Pseudocheirus peregrinus ,2000,1,1,0,1,1,1,1,0
+1,Comadre,10.1046/j.1523-1739.2003.01552.x,Carroll,Conservation Biology,Canis lupus,2003,0,1,0,1,1,0,1,0
+1,Comadre,10.1111/j.1600-0706.2011.19735.x,Perez-Heydrich,Oikos,Gopherus polyphemus,2012,0,1,1,1,1,0,1,0
+1,Compadre,10.1002/ece3.765,del Castillo,Ecology and Evolution,Catopsis compacta,2013,1,1,0,1,1,0,1,0
+1,Comadre,10.2981/13-021,Suzuki,Wildlife Biology,Lagopus muta japonica,2013,1,1,0,1,1,1,1,0
+1,Comadre,10.2307/177030,Pease,Ecology,Ursus arctos,1999,1,1,0,1,1,0,1,1
+1,Compadre,10.1007/s10457-011-9447-7,Somarriba,Agroforestry Systems,Acacia pennatula,2012,0,1,1,0,1,1,1,0
+1,Comadre,10.1016/j.jglr.2011.11.002,Howe,Journal of Great Lakes Research,Petromyzon marinus,2012,1,1,1,1,1,0,1,0
+1,Comadre,10.2307/1941498,Tinkle,Ecology,Chrysemys picta,1981,1,1,0,1,1,0,1,0
+1,Comadre,10.1016/j.ecolmodel.2010.06.026,Wiederholt,Ecological Modelling,Alouatta seniculus,2010,1,1,0,1,1,1,1,1
+1,Comadre,10.1111/j.1365-2664.2005.01067.x,Novaro,Journal of Applied Ecology,Pseudalopex culpaeus ,2005,1,1,0,1,1,1,1,1
+1,Comadre,10.1007/s00338-015-1341-8),Mercado-Molina,Coral Reefs,Acropora cervicornis ,2015,1,1,0,1,1,1,1,0
+1,Compadre,10.1016/j.foreco.2016.03.028,Aschero,Forest Ecology and Management,Prosopis flexuosa ,2016,1,1,1,1,1,1,1,0
+1,Compadre,10.1007/s10144-014-0438-1,Stephens,Population Ecology,Chamaecrista fasciculata/Balduina angustifolia ,2014,1,1,1,1,1,0,1,0
+1,Comadre,10.1046/j.1523-1739.2001.0150041102.x,Hokit,Conservation Biology,Sceloporus woodi,2001,1,1,0,1,1,0,1,0
+1,Comadre,10.2307/3808459,Payne,Journal of Wildlife Management,Castor canadensis,1984,1,1,0,1,1,0,1,1
+1,Compadre,10.1016/S1872-2032(08)60021-9,Zhongjian,Acta Ecologica Sinica,Cypripedium lentiginosum ,2008,0,1,0,1,1,1,1,1
+1,Compadre,10.1890/04-1483,Koop,Ecology,Ardisia elliptica ,2005,1,,1,1,1,0,1,0
+1,Comadre,10.3354/esr00835,Pinya,Endangered Species Research,Alytes muletensis,2017,1,1,1,1,1,0,1,0
+1,Compadre,10.1034/j.1600-0706.2003.11493.x,Gustafsson,Oikos,Sanicula europaea,2003,1,1,0,1,1,0,1,0
+1,Comadre,10.1016/j.ecolmodel.2017.02.001,Oli,Ecological Modelling,Dasypus novemcinctus,2017,1,1,1,0,1,1,1,0
+1,Comadre,10.1016/j.biocon.2007.01.015,Hilderbrand,Biological Conservation,Sciurus niger cinereus ,2007,0,1,0,1,1,0,1,0
+1,Comadre,10.2307/1369293,Massey,The Condor,Sterna antillarum browni,1992,1,1,0,1,1,0,1,0
+1,Compadre,10.2307/2387694,Bullock,Biotropica,Podococcus barteri ,1980,1,1,0,1,1,1,1,0
+1,Comadre,10.1016/S0025-5564(02)00119-0,Yearsley,Mathematical Biosciences,Puffinus tenuirostris ,2002,0,1,1,1,1,0,0,1
+1,Compadre,10.1016/j.biocon.2005.02.001,Adams,Biological Conservation,Helenium virginicum ,2005,1,1,0,1,1,0,1,0
+1,Compadre,10.1007/978-94-009-2049-1_27,Ang,Hydrobiologia,Iridaea splendens ,1990,0,1,0,1,1,0,1,0
+1,Comadre,10.1007/s10144-008-0075-7,Ripley,Population Ecology,Adamussium colbecki/Arctica islandica/Geukensia demissa/Gemma gemma/Lasaea rubra/Lissarca miliaris/Lissarca notorcadensis/Panope abrupta/Tridacna gigas/Yoldia notabilis ,2008,0,1,0,1,1,0,0,0
+1,Compadre,10.2307/2426148,Keeler,The American Midland Naturalist,Ipomoea leptophylla,1991,1,1,0,1,1,0,1,1
+1,Compadre,10.1071/BT06032,Yates,Australian Journal of Botany,Verticordia staminosa,2007,1,1,1,1,1,0,1,0
+1,Comadre,10.1016/j.biocon.2004.01.029,Gerber,Biological Conservation,Orcinus orca/Diomedea exulans/Eschrichtius robustus/Triakis semifasciata/Balaenoptera borealis/Caretta caretta/Lepidochelys kempii/Phoca vitulina .Eumetopias jubatus/Littorina/Enhydra lutrisÂ nereis,2004,0,1,0,1,1,0,1,0
+1,Compadre,10.2307/2261662,Svensson,Journal of Ecology,Pinguicula alpina/Pinguicula villosa/Pinguicula vulgaris,1993,1,1,1,1,1,1,1,1
+1,Compadre,10.1046/j.1523-1739.1996.10010040.x,Ratsirarson,Conservation Biology,Neodypsts decaryi,1996,1,1,0,1,1,1,1,0
+1,Compadre,10.1111/j.1365-2745.2006.01115.x,Elderd,Journal of Ecology,Mimulus guttatus,2006,1,1,0,1,1,1,1,0
+1,Comadre,10.1163/156853808784124992,Rojas-Gonzalez,Amphibia-Reptilia,Xenosaurus platyceps,2008,1,1,0,1,1,0,1,1
+1,Comadre,10.1016/j.jhevol.2004.08.006,Wich,Journal of Human Evolution,Pongo abelii,2004,1,1,0,1,1,1,1,1
+1,Comadre,10.1007/s10144-015-0499-9,Strauss,Population Ecology,Giraffa camelopardalis ,2015,1,1,1,1,1,0,1,1
+1,Comadre,10.1111/evo.12952,Kvalnes,Evolution ,Alces alces,2016,1,1,0,1,1,1,1,1
+1,Compadre,10.1111/j.1365-2745.2006.01147.x,Colling,Journal of Ecology,Scorzonera humilis ,2006,1,1,0,1,1,0,1,1
+1,Compadre,10.1111/1365-2664.13112,Andrello,Journal of Applied Ecology,Eryngium alpinum ,2018,1,1,0,1,1,1,1,0
+1,Comadre,10.1016/j.envpol.2013.08.031,Salice,Environmental Pollution,Chelydra serpentina ,2014,0,1,1,1,1,0,1,0
+1,Compadre,10.1016/j.biocon.2017.04.019,Hens,Biological Conservation,Epipactis atrorubens ,2017,1,1,1,1,1,1,1,1
+1,Comadre,10.1080/11956860.2001.11682641,Ericsson,Ecoscience,Alces alces,2001,1,1,0,1,1,1,1,1
+1,Compadre,10.1046/j.1523-1739.1996.10020608.x,Nantel,Conservation Biology,Panax quincefolium/Allium tricoccum,1996,1,1,0,1,1,0,1,0
+1,Comadre,10.2193/2006-146,Blackwell,The Journal of Wildlife Management ,Coragyps atratus,2007,1,1,0,1,1,1,1,1
+1,Comadre,10.1002/jwmg.628,Chastant,The Journal of Wildlife Management ,Phalacrocorax auritus,2014,1,1,0,1,1,0,1,0
+1,Compadre,10.1007/s10144-013-0364-7,Osunkoya,Population Ecology,Lantana camara ,2013,1,1,1,1,1,1,1,1
+1,Comadre,10.2307/1935638,Caughley,Ecology,Hemitragus jemlahicus,1966,1,1,0,1,1,0,1,1
+1,Comadre,10.1086/587530,Hartemink,The American Naturalist,Ixodes ricinus,2008,0,1,0,1,1,0,0,0
+1,Comadre,10.1890/09-1641,Hunter,Ecology,Ursus maritimus ,2010,1,,1,1,1,1,1,1
+1,Comadre,10.1023/B:EMAS.0000016881.12925.b1,Lawler,Environmental Monitoring and Assessment,Buteo lineatus/Accipiter gentilis,2004,0,0,0,0,0,0,1,0
+1,Comadre,10.1111/j.1748-7692.1994.tb00388.x,York,Marine Mammal Science ,Eumetopias jubatus,1994,1,1,0,1,1,0,1,1
+1,Compadre,10.1007/s11258-010-9749-2,Christensen,Plant Ecology,Hydrastis canadensis ,2010,1,1,1,1,1,0,1,1
+1,Comadre,10.3398/1527-0904(2007)67[492:GADOOP]2.0.CO;2,Ortega-Leon,Western North American Naturalist,Sceloporus mucronatus mucronatus ,2007,1,1,1,1,1,1,1,1
+1,Compadre,10.1890/13-1984.1,Haridas,Ecology,Opuntia macrorhiza ,2015,1,1,1,1,1,0,1,0
+1,Compadre,10.1111/j.1523-1739.2006.00368.x,Lehtila,Conservation Biology,Primula veris ,2006,1,1,0,1,1,0,1,0
+1,Compadre,10.1300/J091v23n01_05,Valverde,Journal of Sustainable Forestry ,Chamaedorea elegans ,2006,1,1,0,1,1,1,1,1
+1,Comadre,10.2307/1939945,Clinton,Ecology,Mirounga angustirostris,1993,1,1,0,1,1,0,1,1
+1,Comadre,10.1016/S0304-3800(99)00145-3,Carter,Ecological Modelling,Ailuropoda melanoleuca ,1999,0,1,0,1,1,0,1,0
+1,Comadre,10.5253/078.100.0208,Bijlsma,Ardea,Pernis apivorus,2012,1,1,1,1,1,1,1,0
+1,Compadre,10.3732/ajb.0900351,Bucharova,American Journal of Botany,Asplenium adulterinum/Asplenium cuneifolium ,2010,1,1,0,1,1,1,1,1
+1,Compadre,10.1111/j.1442-9993.1982.tb01304.x,Enright,Australian Journal of Ecology,Araucaria hunsteinii,1982,0,0,0,0,0,0,1,0
+1,Compadre,10.1007/s11258-014-0344-9,Scanga,Plant Ecology,Trollius laxus,2014,1,1,0,1,1,0,1,0
+1,Compadre,10.1016/j.foreco.2013.05.049,Jackson,Forest Ecology and Management,Prosartes lanuginosa ,2013,1,1,1,1,1,0,1,1
+1,Compadre,10.1046/j.1523-1739.1997.96159.x,Maschinski,Conservation Biology,Astragalus cremnophylax ,1997,1,1,0,1,1,0,1,0
+1,Compadre,10.2307/2261672,Bengtsson,Journal of Ecology,Fumana procumben ,1993,1,1,0,1,1,1,1,0
+1,Comadre,10.1016/j.jnc.2013.06.002,Unger,Journal for Nature Conservation,Cryptobranchus alleganiensis alleganiensis ,2013,1,1,1,1,1,0,1,1
+1,Comadre,10.1080/20018091094835,Gleason,Human and Ecological Risk Assessment: An International Journal ,Pimephales promelas/Alcedo atthis/Sterna antillarum browni ,2001,0,1,1,1,1,0,0,0
+1,Compadre,10.3719/weed.50.60,Westerman,Weed Science,Abutilon theophrasti,2005,1,1,0,1,1,0,1,0
+1,Comadre,10.1163/157075610X523260,Klok,Animal Biology,Anser anser,2010,1,1,1,1,1,1,1,0
+1,Comadre,10.1007/BF00390542,Brousseau,Marine Biology,Mya arenaria,1978,1,1,0,1,1,1,1,1
+1,Comadre,10.1007/BF02765226,Yoccoz,Researches on Population Ecology,Clethrionomys rufocanus,1998,1,1,0,1,1,1,1,0
+1,Comadre,10.1655/HERPETOLOGICA-D-12-00038R2,Perez-Mendoza,Herpetologica,Sceloporus grammicus,2013,1,1,0,1,1,1,1,1
+1,Compadre,10.1890/04-1952,Pfifster,Ecology,Alaria nana,2005,1,1,1,1,1,1,1,0
+1,Compadre,10.1111/j.1654-1103.2004.tb02286.x,Hara,Journal of Vegetation Science ,Hydrangea paniculata/Lindera umbellata var. membranacea/Magnolia salicifolia/Viburnum furcatum ,2004,1,1,1,1,1,1,1,1
+1,Comadre,10.2192/1537-6176-20.1.12,Kohira,Ursus,Ursus arctos yesoensis,2009,1,1,0,1,1,1,1,1
+1,Comadre,10.4039/Ent1051465-11,Berryman,The Canadian Entomologist,Scolytus ventralis,1973,1,1,0,1,0,0,1,1
+1,Compadre,10.1111/j.1523-1739.2008.01073.x,Pathikonda ,Conservation Biology,Iris hexagona/Iris psuedacorus,2008,0,1,1,1,1,0,0,0
+1,Compadre,10.1111/j.1365-2745.2011.01910.x,Bullock,Journal of Ecology,Himantoglossum hircinum/Cirsium acaule/Erica ciliaris/Conyza canadensis/Lactuca serriola/Ailanthus altissima ,2012,0,1,0,1,1,0,0,0
+1,Comadre,10.2307/1940983,McFadden,Ecology,Alcyonium sp. ,1991,1,1,0,1,1,1,1,1
+1,Compadre,10.1007/s11258-011-9906-2,Evju,Plant Ecology,Geranium sylvaticum ,2011,1,1,1,1,1,1,1,1
+1,Compadre,10.1007/s12231-014-9295-2,Torres,Economic Botany,Agave potatorum ,2015,0,1,0,1,1,0,1,1
+1,Compadre,10.1890/ES11-00328.1,Shefferson,Ecosphere,Cypripedium calceolus/Cephalanthera longifolia ,2012,1,1,0,1,1,0,1,1
+1,Comadre,10.1371/jourNAl.pone.0034379,Hostetler,PLoS ONE,Callospermophilus lateralis ,2012,1,1,0,1,1,1,1,0
+1,Comadre,10.1016/j.jas.2012.04.037,Monchot,Journal of Archaeological Science,Hystrix refossa ,2012,0,1,1,1,1,0,1,1
+1,Comadre,10.1007/s10764-009-9332-7,Isbell,International Journal of Primatology,Erythrocebus patas/Cercopithecus aethiops ,2009,1,1,0,1,1,1,1,1
+1,Compadre,10.1093/aob/mcp188,Winkler,Annals of Botany,Jacquiniella leucomelana/Jacquiniella teretifolia/Lycaste aromatica ,2009,1,1,0,1,1,1,1,0
+1,Compadre,10.2307/2445615,Lesica,American Journal of Botany,Arabis fecunda,1995,1,1,0,1,1,0,1,0
+1,Compadre,10.1111/j.1469-8137.1984.tb03596.x,Boorman,New Phytologist Trust,Lactuca virosa/Cynoglossum officinale ,1984,1,1,1,1,1,0,1,1
+1,Comadre,10.1093/jme/tjw021,Hanly,Journal of Medical Entomology,Aedes triseriatus,2016,1,1,1,1,1,0,1,0
+1,Comadre,10.1046/j.1523-1739.2002.00433.x,Biek,Conservation Biology,Bufo boreas/Rana aurora/Rana temporaria ,2002,0,1,0,1,1,0,0,0
+1,Comadre,10.1111/j.1365-2664.2012.02160.x,Gamelon,Journal of Applied Ecology,Sus scrofa scrofa,2012,1,1,1,1,1,1,1,0
+1,Compadre,10.1890/09-0750,Prevey,Ecological Applications,Tragopogon dubius and Lactuca serriola ,2010,1,1,1,1,1,1,1,0
+1,Compadre,10.1046/j.1442-1984.1999.00007.x,Kaneko,Plant Species Biology,Aesculus turbinata ,1999,1,1,1,1,1,1,1,1
+1,Comadre,10.2307/3546090,Nakaoka,Oikos,Yoldia notabilis,1997,0,1,0,1,1,0,1,0
+1,Compadre,10.1086/284796,Solbrig,The American Naturalist,Viola fimbriatula,1988,0,1,1,1,1,0,0,1
+1,Compadre,10.1007/s11258-007-9393-7,Abe,Plant Ecology,Stachyurus macrocarpus,2008,1,1,0,1,1,0,1,1
+1,Compadre,10.1007/s10530-004-5572-9,Hyatt,Biological Invasions,Polygonum perfoliatum ,2006,1,1,1,1,1,0,1,0
+1,Compadre,10.1111/aec.12045,Enright,Austral Ecology,Araucaria muelleri ,2014,1,1,0,1,1,1,1,0
+1,Comadre,10.1007/s10144-011-0292-3,Hyslop,Population Ecology,Drymarchon couperi ,2012,1,1,1,1,1,0,1,0
+1,Comadre,10.2307/1381947,Luo,Journal of Mammalogy,Spermophilus dauricus/Spermophilus columbianus,1990,1,1,0,1,1,1,1,1
+1,Compadre,10.1111/1365-2664.12057,Matlaga,Journal of Applied Ecology,Miscanthus giganteus ,2013,0,1,1,1,1,0,0,0
+1,Comadre,978-1-4939-0697-0,Lizcano,Developments in Primatology: Progress and Prospects,Lagothrix,2014,1,1,1,1,1,0,1,0
+1,Compadre,10.1016/j.biocon.2004.03.019,Ticktin,Biological Conservation,Aechmea magdalenae ,2004,1,1,0,1,1,0,1,0
+1,Compadre,10.1646/1601,Mendez,Biotropica,Pterocereus gaumeri ,2004,1,1,0,1,1,1,1,1
+1,Compadre,10.1111/gcb.12167,Sletvold,Global Change Biology,Dactylorhiza lapponica ,2013,1,1,0,1,1,1,1,0
+1,Compadre,10.1007/s00442-012-2301-4,Shriver,Oecologia,Vulpicida pinastri,2012,1,1,0,1,1,0,1,0
+1,Comadre,10.2307/2404820,Marboutin,Journal of Applied Ecology,Lepus europaeus,1995,1,1,0,1,1,0,1,1
+1,Compadre,10.1046/j.1365-2664.2003.00842.x,Freckleton,Journal of Applied Ecology,Euterpe edulis ,2003,0,1,0,1,1,0,0,1
+1,Comadre,10.1016/S0304-3800(01)00433-1,Chaloupka,Ecological Modelling,Chelonia mydas,2002,0,1,1,1,1,0,1,1
+1,Comadre,10.3354/meps10547,New,Marine Ecology Progress Series ,Mirounga leonina ,2014,1,1,0,1,1,0,1,0
+1,Comadre,10.1016/j.ecolmodel.2017.07.023,Maestri,Ecological Modelling,Ara glaucogularis ,2017,1,1,1,1,1,0,1,1
+1,Compadre,10.1023/B:VEGE.0000046052.35390.59,Godinez-Alvarez,Plant Ecology,Neobuxbaumia macrocephala,2004,1,1,0,1,1,1,1,1
+1,Comadre,10.2307/3801764,Van Sickle,Journal of Wildlife Management,Kobus ellipsiprymnus,1987,0,1,0,1,1,0,1,1
+1,Compadre,10.1007/s00442-008-0980-7,Verhulst,Oecologia,Atriplex canescens/Atriplex acanthocarpa ,2008,1,1,0,1,1,1,1,0
+1,Comadre,10.1016/j.ecolmodel.2014.08.021,Lewis,Ecological Modelling,Ursus americanus,2014,1,1,1,1,1,0,1,0
+1,Comadre,10.1126/science.275.5298.389,Costantino,Science,Tribolium,1997,0,0,0,1,1,0,0,0
+1,Comadre,10.1016/j.ecss.2015.11.012,Tomlinson,"Estuarine, Coastal and Shelf Science",Pelagia noctiluca ,2018,1,1,1,1,1,1,1,1
+1,Compadre,https://doi.org/10.1002/ecs2.2706,Werner,Ecosphere,Eucalyptus tetrodonta/Eucalyptus miniata ,2019,1,1,1,1,1,1,1,0
+1,Comadre,10.1643/CE-14-191,Paez,Copeia,Podocnemis lewyana ,2015,1,1,1,1,1,0,1,1
+1,Compadre,10.1111/j.1365-2664.2012.02117.x,Dauer,Journal of Applied Ecology,Jacobaea vulgaris ,2012,1,1,1,1,1,0,0,0
+1,Comadre,10.1890/0012-9658(2002)083[2194:PDCOPI]2.0.CO;2,Bronikowski,Ecology,Poecilia reticulata,2002,1,1,1,1,1,0,0,0
+1,Comadre,10.1007/s11252-016-0566-9,Makenov,Urban Ecosystems,Canis familiaris ,2016,1,1,0,1,1,0,1,1
+1,Compadre,10.2216/i0031-8884-25-1-11.1,De Wreede,Phycologia,Pterygophora californica ,1986,1,1,0,1,1,0,1,1
+1,Comadre,10.1890/02-5010,Schumaker,Ecological Applications,Poecile atricapillus/Dendragapus obscurus/Lynx rufus/Accipiter cooperii/Canis latrans/Tamiasciurus douglasii/Perisoreus canadensis/Bubo virginianus/Cistothorus palustris/Zenaida macroura/Accipiter gentilis/Strix occidentalis caurina/Dryocopus pileatus/Procyon lotor/Vulpes vulpes/Buteo jamaicensis/Sturnella neglecta ,2004,0,1,0,1,1,0,1,0
+1,Compadre,10.1016/j.baae.2015.02.009,Silva,Basic and Applied Ecology,Sonchus pustulatus,2015,1,1,0,1,1,1,1,1
+1,Compadre,10.1034/j.1600-0587.2002.250211.x,Berg ,Ecography,Oxalis acetosella ,2002,1,1,0,1,1,1,1,1
+1,Compadre,10.1007/s10144-017-0572-7,Hernandez-Pedrero,Population Ecology,Furcraea parmentieri ,2017,1,1,0,1,1,1,1,1
+1,Comadre,10.1002/wmon.1012,Howerter,Wildlife Monographs,Anas platyrhynchos ,2014,1,1,0,1,1,0,1,1
+1,Comadre,10.1139/Z03-045,Mitro,Canadian Journal of Zoology,Malaclemys terrapin ,2003,1,1,0,1,1,0,1,1
+1,Comadre,10.1676/12-154.1,Bulluck,The Wilson Journal of Ornithology ,Vermivora chrysopter,2013,1,1,0,1,1,0,1,0
+1,Compadre,10.1111/plb.12007,Munzbergova,Plant Biology,Linum flavum/Linum tenuifolium ,2013,1,1,0,1,1,0,1,0
+1,Compadre,10.1111/j.1442-9993.2006.01650.x,Souza,Austral Ecology,Geonoma brevispatha ,2006,1,1,1,1,1,1,1,0
+1,Compadre,10.1098/rspb.2018.1091,Pantoja,Proceedings of the Royal Society B,Mimulus guttatus ,2018,1,1,0,1,1,1,1,1
+1,Compadre,10.1002/ece3.2163,Lin,Ecology and Evolution,Dicentra canadensis ,2016,1,1,1,1,1,1,1,1
+1,Compadre,10.1890/11-0948.1,Bricker,Ecology,Lithospermum ruderale ,2012,1,1,1,1,1,0,1,1
+1,Compadre,10.1111/j.1523-1739.2004.00567.x,Kwit,Conservation Biology,Taxus floridana ,2004,1,1,1,1,1,0,1,0
+1,Compadre,10.1007/978-94-017-1345-0_12,Tolvanen,Evolutionary Ecology,Salix arctica ,2002,1,1,1,1,1,1,1,1
+1,Compadre,10.1007/s11258-010-9737-6,Martinez,Plant Ecology,Mammillaria huitzilopochtli,2010,1,1,1,1,1,1,1,1
+1,Comadre,10.1071/WR10080,Chambers,Wildlife Research,Macropus eugenii,2010,1,1,1,1,1,1,1,0
+1,Compadre,10.2307/2261390,Bullock,Journal of Ecology,Cirsium vulgare ,1994,1,1,1,1,1,0,1,0
+1,Compadre,10.2307/1936930,Werner,Ecology,Dipsacus sylvestris,1977,1,1,0,1,1,0,1,1
+1,Comadre,10.1890/0012-9658(2001)082[1921:EODROU]2.0.CO;2,Oli,Ecology,Spermophilus armatus,2001,1,1,1,1,1,0,1,0
+1,Compadre,10.1086/285599,Alvarez-Buylla,The American Naturalist,Cecropia obtiisifoli ,1994,1,1,1,1,1,1,1,1
+1,Comadre,10.1139/cjfas-2012-0520,Fujiwara,Canadian Journal of Fisheries and Aquatic Sciences,Epinephelus morio ,2013,0,1,1,1,1,0,0,0
+1,Comadre,10.2307/3802460,Maguire,The Journal of Wildlife Management ,Picoides borealis,1995,1,1,0,1,1,0,1,0
+1,Comadre,10.1016/S0304-3800(99)00039-3,Cropper,Ecological Modelling,Spongia graminea ,1999,1,1,0,1,1,0,1,1
+1,Comadre,10.1642/0004-8038(2004)121[0015:MEOSAP]2.0.CO;2,Jones,The Auk,Dendroica cerulea ,2004,1,1,0,1,1,1,1,1
+1,Compadre,10.3398/064.077.0108,Hill,Western North American Naturalist,Silene spaldingii,2017,1,1,1,1,1,0,1,1
+1,Compadre,10.1890/03-0119,Freville,Ecology,Centaurea corymbosa ,2004,1,1,1,1,1,0,1,0
+1,Comadre,10.1017/S1367943004001593,Heinsohn,Animal Conservation,Dugong dungon,2004,1,0,0,0,1,0,1,0
+1,Compadre,10.1111/1365-2745.12625,Capdevila,Journal of Ecology,Cystoseira zosteroides ,2016,1,1,1,1,1,1,1,0
+1,Compadre,10.1111/j.1440-6055.2006.00556.x,Raghu,Australian Journal of Entomology,Parkinsonia aculeata ,2006,1,1,1,1,1,0,1,0
+1,Compadre,10.1007/s10592-010-0056-1,Noel,Conservation Genetics,Brassica insularis ,2010,1,1,1,1,1,0,1,1
+1,Compadre,10.1017/S0376892914000204,Wong,Environmental Conservation ,Alyxia stellata ,2015,1,1,1,1,1,1,1,0
+1,Compadre,10.2307/2260308,Fiedler,Journal of Ecology,Calochortus obispoensis/Calochortus tiburonensis/Calochortus pulchellus/Calochortus albus ,1987,1,1,0,1,1,1,1,1
+1,Compadre,10.1016/j.actao.2014.05.009,Toledo-Aceves,Acta Oecologica,Tillandsia multicaulis/Tillandsia punctulata,2014,1,1,0,1,1,1,1,1
+1,Comadre,10.1016/j.crvi.2005.09.009,Pichancourt,Comptes Rendus Biologies,Abax parallelepipedus ,2006,0,1,1,1,1,0,0,0
+1,Comadre,10.1007/s00442-010-1761-7,Hudgens,Oecologia,Urocyon littoralis ,2011,1,1,0,1,1,1,1,0
+1,Comadre,10.2307/3803072,Klavitter,The Journal of Wildlife Management ,Buteo solita ,2003,1,1,0,1,1,0,1,1
+1,Compadre,10.2307/2260724,Charron,Journal of Ecology,Panax quincefolium,1991,1,1,0,1,1,0,1,1
+1,Comadre,10.1890/05-0486,Govindarajulu,Ecological Applications,Rana catesbeiana,2005,1,1,1,1,1,1,1,0
+1,Comadre,10.2307/3803153,Hoekman,The Journal of Wildlife Management ,Anas platyrhynchos ,2002,1,1,1,1,1,0,1,1
+1,Comadre,10.1139/f05-245,Labonne,Canadian Journal of Fisheries and Aquatic Sciences,Zingel asper,2006,1,1,1,1,1,0,1,0
+1,Comadre,10.1093/plankt/fbv024,Henschke,Journal of Plankton Research,Thalia democratica ,2015,0,1,1,1,1,0,1,0
+1,Compadre,10.1080/17550874.2012.662534,Garcia-Camacho,Plant Ecology and Diversity,Armeria caespitosa ,2012,1,0,1,0,0,1,1,0
+1,Compadre,10.1017/S0266467400001620,Barot,Journal of Tropical Ecology,Borassus aethiopum,2000,1,1,1,1,1,1,1,1
+1,Compadre,10.1111/j.1600-0587.2010.06250.x,Gimenez-Benavides,Ecography,Silene ciliata,2011,1,1,1,1,1,1,1,1
+1,Compadre,10.1046/j.1365-2745.1999.00388.x,Nantel,Journal of Ecology,Helianthus divaricatus/Rhus aromatica ,1999,1,1,0,1,1,1,1,1
+1,Comadre,10.1046/j.1461-0248.2000.00138.x,Gotelli,Ecology Letters,Solenopsis invicta ,2000,1,0,0,0,0,0,1,0
+1,Compadre,10.1371/journal.pone.0102859,Tremblay,PLoS ONE,Lepanthes rupestris ,2014,1,1,1,1,1,1,1,0
+1,Comadre,10.1890/0012-9658(1997)078[1019:EOASDA]2.0.CO;2,Jorgenson,Ecology,Ovis canadensis ,1997,1,1,0,1,1,1,1,0
+1,Comadre,10.1017/S0950268812000167,Hayman,Epidemiology and Infection ,Eidolon helvum ,2012,1,0,0,0,0,0,1,1
+1,Comadre,10.1890/08-0305.1,Sakaris,Ecological Applications,Pylodictis olivaris ,2010,1,1,0,1,1,0,1,1
+1,Comadre,10.1155/2015/987060,Sabat,Journal of Marine Biology,Gorgonia ventalina ,2015,0,1,0,1,1,0,1,1
+1,Comadre,10.1016/S0006-3207(02)00341-5,Hebblewhite,Biological Conservation,Ursus americanus,2003,1,1,1,1,1,0,1,0
+1,Comadre,10.1016/j.biocon.2013.09.005,Cruz,Biological Conservation,Himantopus novaezelandiae ,2013,1,1,0,1,1,1,1,0
+1,Comadre,10.1007/s00442-011-1931-2,Grey,Oecologia,Botrylloides violaceus ,2011,1,1,1,1,1,1,1,0
+1,Compadre,10.1007/bf02806475,Munzbergova,Folia Geobotanica,Scorzonera hispanica ,2006,1,1,0,1,1,1,1,0
+1,Compadre,10.1890/07-1128.1,Bullock,Ecological Applications,Rhinanthus minor ,2008,1,1,0,1,1,1,1,0
+1,Compadre,10.1016/j.ecolmodel.2012.07.022,Klimas,Ecological Modelling,Carapa guianensis ,2012,1,1,1,1,1,1,1,0
+1,Comadre,10.1007/s10441-009-9090-0,Serghini,Acta Biotheoretica,Sardina pilchardus,2009,1,1,1,1,1,1,1,0
+1,Compadre,10.1016/j.biocon.2006.07.012,Maschinski,Biological Conservation,Pseudophoenix sargentii ,2006,1,1,0,1,1,0,1,1
+1,Compadre,10.1111/j.1744-7429.2009.00615.x,Rigg,Biotropica,Araucaria laubenfelsii ,2010,1,1,0,1,1,1,1,1
+1,Comadre,10.1515/mamm.1984.48.3.327,Rodgers,Mammalia,Phacochoerus aethiopicus,1984,1,1,0,1,1,1,1,0
+1,Comadre,10.2307/1934778,Spinage,Ecology,Aepyceros melampus/Syncerus caffer/Equus burchelli boehmi/Phacocheorus aethiopicus,1972,1,1,0,1,1,0,1,0
+1,Compadre,10.2478/s11756-009-0002-1,Eckstein,Biologia,Viola elatior/Viola pumila/Viola stagnina ,2009,1,1,0,1,1,0,1,1
+1,Compadre,10.1016/j.jaridenv.2011.01.015,Portilla-Alonso,Journal of Arid Environments,Coryphantha werdermannii ,2011,1,1,0,1,1,0,1,1
+1,Compadre,10.1111/1365-2664.12217,Winter,Journal of Applied Ecology,Colchicum autumnale ,2014,1,1,1,1,1,1,1,0
+1,Comadre,10.1890/08-2060.1,McMurray,Ecology,Xestospongia muta ,2010,1,1,0,1,1,1,1,1
+1,Compadre,10.1086/297607,Floyd,International Journal of Plant Science,Gaura neomexicana ssp. coloradensis ,1998,1,1,0,0,1,0,1,1
+1,Comadre,10.1086/597225,Ozgul,The American Naturalist,Marmota flaviventris ,2009,1,0,1,0,1,1,1,
+1,Compadre,10.1016/j.biocon.2011.12.012,Andrello,Biological Conservation,Eryngium alpinum ,2012,1,1,1,1,1,0,1,0
+1,Compadre,10.1111/j.1095-8339.2007.00628.x,Pino,Botanical Journal of the Linnean Society ,Kosteletzkya pentacarpos ,2007,1,1,1,1,1,1,1,0
+1,Compadre,10.2307/2679864,Mandujano,Ecology,Opuntia rastrera,2001,1,1,1,1,1,1,1,1
+1,Compadre,10.1111/j.1365-2745.2005.00958.x,Poorter,Journal of Ecology,Tachigali vasquezii ,2005,1,1,0,1,1,1,1,0
+1,Comadre,10.1111/j.1469-1795.2007.00105.x,Zambrano,Animal Conservation,Ambystoma mexicanum,2007,1,1,0,1,1,0,1,0
+1,Comadre,10.2307/3803419,Fefferman,The Journal of Wildlife Management ,Tympanuchus cupido/Picoides borealis ,2006,0,1,0,1,1,0,0,1
+1,Compadre,10.1007/s10144-015-0519-9,Lemke,Population Ecology,Trollius europaeus ,2016,1,1,1,1,1,1,1,1
+1,Comadre,10.1890/0012-9615(2001)071[0377:RAODRT]2.0.CO;2,Cooch,Ecological Monographs,Anser c. caerulescens ,2001,1,1,1,1,1,1,1,0
+1,Comadre,10.3354/meps10377,Jimenez-Melero,Marine Ecology Progress Series ,Arctodiaptomus salinus ,2013,1,0,1,0,0,0,1,0
+1,Comadre,10.1139/Z08-124,Zuniga-Vega,Canadian Journal of Zoology,Sceloporus grammicus ,2008,1,1,1,1,1,1,1,1
+1,Comadre,10.1016/j.biocon.2003.11.002,Schaub,Biological Conservation,Ciconia ciconia ,2004,1,1,0,1,1,0,1,0
+1,Compadre,10.1023/A:1008623521755,Degreef,Genetic Resources and Crop Evolution,Phaseolus lunatus L. ,1997,1,1,1,1,1,1,1,1
+1,Comadre,10.1007/s00442-015-3222-9,Fernandez-Chacon,Oecologia,Salmo trutta,2015,1,1,1,1,1,1,1,1
+1,Comadre,10.1111/j.0908-8857.2008.04189.x,Koivula,Journal of Avian Biology,Calidris temminckii,2008,1,1,1,1,1,1,1,0
+1,Comadre,10.1016/j.ecolmodel.2003.06.007,Wallace,Ecological Modelling,Lentivirus (HIV),2004,0,1,1,1,1,0,0,1
+1,Comadre,10.1890/07-0018.1,Beissinger,Ecological Monographs,Amazona vittata ,2008,1,1,1,1,1,0,1,0
+1,Compadre,10.1023/A:1015506019670,Kiviniemi,Plant Ecology,Agrimonia eupatoria/Geum rivale ,2002,1,1,1,1,1,1,1,1
+1,Comadre,10.1016/j.biocon.2014.05.026,Goswami,Biological Conservation,Elephas maximus ,2014,0,1,0,1,1,0,0,0
+1,Comadre,10.1890/02-0409,Gaillard,Ecology,Odocoileus hemionus/Rangifer tarandus granti/Rangifer tarandus/Tragelaphus strepsiceros/Ovis canadensis/Ovis dalli/Capreolus capreolus/Alces alces/Cervus elaphus/Ovis aries/Oreamnos americanus/Capra ibex/Bos taurus/Equus caballus/Antilocapra americana ,2003,0,1,0,1,1,0,0,0
+1,Compadre,10.1111/j.1365-3180.2009.00703.x,Borger,Weed Research,Salsola australis,2009,1,1,1,1,1,0,1,0
+1,Compadre,10.1016/j.biocon.2006.10.038,Jimenez-Sierra,Biological Conservation,Echinocactus platyacanthus ,2007,1,1,1,1,1,1,1,1
+1,Compadre,10.1111/j.1365-2664.2005.01015.x,Ehrlen,Journal of Applied Ecology,Primula veris ,2005,1,1,0,1,1,0,1,0
+1,Compadre,10.1111/j.1529-8817.2010.00924.x,Da Silva Vieira,Journal of Phycology,Gelidium sesquipedale,2010,0,1,1,1,1,0,0,0
+1,Compadre,10.1016/j.foreco.2008.02.041,Picard,Forest Ecology and Management,Entandrophragma cylindricum ,2008,1,1,0,1,1,1,1,0
+1,Comadre,10.14430/arctic1733,Messier,Arctic,Rangifer tarandus,1988,1,1,0,1,1,1,1,1
+1,Compadre,10.1890/02-5219,Griffith,Ecological Applications,Aeschynomene virginica,2005,1,1,1,0,1,0,1,0
+1,Comadre,10.1086/285729,Orive,The American Naturalist,Goniastrea aspera/Goniastrea favul/Platygyra sinensis ,1995,0,1,1,1,1,0,0,0
+1,Compadre,10.1111/j.1523-1739.2011.01691.x,Chaparro,Conservation Biology,Tillandsia macdougallii/Tillandsia violaceae ,2011,1,1,1,1,1,1,1,0
+1,Compadre,10.1016/j.ecolmodel.2005.07.020,Logofet,Ecological Modelling,Calamagrostis canescens ,2006,0,1,1,1,1,1,1,1
+1,Comadre,10.2193/2008-093,Grear,The Journal of Wildlife Management ,Gavier immer,2009,1,1,1,1,1,0,1,0
+1,Compadre,10.2307/2260717,Silva,Journal of Ecology,Andropogon semiberbis,1991,0,1,1,1,1,1,1,0
+1,Comadre,10.1111/nrm.12034,Holma,Natural Resource Modelling,Salmo salar/Halichoerus grypus ,2014,0,1,0,1,1,1,1,0
+1,Comadre,10.1111/j.1365-2656.2005.00975.x,Coulson,Journal of Animal Ecology,Ovis canadensis/Cervus elaphus,2005,1,1,0,1,1,0,1,0
+1,Comadre,10.2307/1447431,Fox,Copeia,Uta stansburiana ,1998,1,0,0,0,0,0,1,0
+1,Compadre,10.2307/1933696,Steenbergh,Ecology,Cereus giganteus ,1969,1,0,0,0,0,0,1,0
+1,Comadre,10.1093/icesjms/fsu056,Tsai,ICES Journal of Marine Science,Isurus oxyrinchus ,2014,1,1,1,1,1,1,1,1
+1,Compadre,10.1007/s12080-017-0353-0,de Vries,Theoretical Ecology,Lathyrus vernus ,2018,0,1,0,1,1,0,0,1
+1,Compadre,10.1016/j.foreco.2010.11.007,Fortini,Forest Ecology and Management,Mora paraensis/Licania heteromorpha/Callycophyllum spruceanum/Carapa guianensis Aubl./Virola surinamensis/Licaria mahuba/Pouteria sagotiana/Platymiscium filipes ,2011,1,0,0,0,1,0,1,1
+1,Comadre,10.1002/etc.5620210425,Kuhn,Environmental Toxicology and Chemistry,Ampelisca abdita ,2002,1,1,1,1,1,0,1,1
+1,Compadre,10.1016/j.tpb.2006.05.003,Hastings,Theoretical Population Biology,Spartina alterniflora ,2006,0,1,0,1,1,0,1,1
+1,Comadre,10.1111/j.1365-2656.2006.01118.x,Hadley,Journal of Animal Ecology,Leptonychotes weddellii ,2006,1,1,0,1,1,1,1,1
+1,Comadre,10.1007/s10144-012-0306-9,Kerbiriou,Population Ecology,Fulmarus glacialis ,2012,1,1,1,1,1,1,1,0
+1,Compadre,10.1046/j.1365-2699.2000.00187.x,Silva,Global Ecology and Biogeography,Espeletia timotensis/Espeletia spicata ,2000,1,1,1,1,1,1,1,1
+1,Comadre,10.1016/0304-3800(93)E0081-D,Jensen,Ecological Modelling,Odocoileus virginianus,1995,0,1,0,1,1,1,1,1
+1,Comadre,10.2980/1195-6860(2007)14[362:LHOFRS]2.0.CO;2,McAdam,Ecoscience,Tamiasciurus hudsonicus ,2007,1,1,1,1,1,1,1,0
+1,Compadre,10.1086/507877,Kauffman,The American Naturalist,Lupinus arboreus ,2006,1,1,0,1,1,0,1,0
+1,Compadre,10.1007/s00442-013-2876-4,Eckberg,Oecologia,Cirsium altissimum ,2014,1,1,0,1,1,0,1,0
+1,Compadre,10.1016/j.biocon.2005.07.022,Zotz,Biological Conservation,Aspasia principissa ,2006,1,1,0,1,1,1,1,1
+1,Comadre,10.3354/meps234229,Davis,Marine Ecology Progress Series ,Clinocottus analis ,2002,1,1,1,1,1,1,1,0
+1,Compadre,10.1046/j.1365-3180.1998.00068.x,Pino,Weed Research,Rumex obtusifolius ,1998,1,1,1,1,1,0,1,0
+1,Comadre,10.2307/1382951,Lima,Journal of Mammalogy,Arctocephalus australis,1997,1,1,0,1,1,1,1,1
+1,Compadre,10.1890/09-0480.1,Loayza,Ecology,Cyanocorax cyanomelas/Pteroglossus castanotis/Guettarda viburnoides ,2010,1,1,1,1,1,1,1,0
+1,Comadre,10.1016/j.fishres.2008.11.006,Gonzalez-Olivares,Fisheries Research,Genypterus blacodes ,2009,1,1,1,1,1,1,1,1
+1,Compadre,10.1139/B03-099,Froborg,Canadian Journal of Botany,Actaea spicata,2003,1,1,1,1,1,1,1,1
+1,Comadre,10.1021/es049654o,Chandler,Environmental Science and Technology,Amphiascus tenuiremis ,2004,0,1,1,1,1,0,0,0
+1,Comadre,10.1016/S1631-0691(03)00148-3,Chapron,C.R. Biologies,Canis lupus,2003,0,1,1,1,1,0,0,1
+1,Comadre,10.1890/0012-9658(2000)081[2250:RFLHAL]2.0.CO;2,Hughes,Ecology,Montastrea annularis/Agaricia agaricites/Leptoseris cucullata,2000,1,1,0,1,1,0,1,1
+1,Compadre,10.2307/2401258,Usher,Journal of Applied Ecology,Pinus sylvestris,1966,0,0,0,1,1,0,1,1
+1,Comadre,10.2307/1939879,Levin,Ecology,Streblospio benedicti ,1987,0,1,0,1,1,1,1,1
+1,Compadre,10.1017/S0266467409990599,Sampaio,Journal of Tropical Ecology,Geonoma schottiana ,2010,1,1,0,1,1,1,1,0
+1,Compadre,10.2307/3236803,Eriksson,Journal of Vegetation Science ,Plantago media ,2000,1,1,1,1,1,0,1,1
+1,Comadre,10.1890/04-1688,Rogers-Bennett,Ecological Applications,Haliotis rufescens ,2006,1,1,0,1,1,0,1,0
+1,Comadre,10.2307/2402601,Harwood,Journal of Applied Ecology,Halichoerus grypus,1978,0,1,0,1,1,0,1,0
+1,Compadre,10.1111/j.1365-2745.2007.01279.x,Endels,Journal of Ecology,Primula vulgaris ,2007,1,1,1,1,1,0,1,0
+1,Comadre,10.1086/physzool.30.4.30152211,Frank,Physiological Zoology,Daphnia pulex,1957,1,,0,1,1,0,0,1
+1,Comadre,10.1071/wr9850541,Smith,Australian Wildlife Research,Crocodylus johnstoni,1985,1,1,0,1,1,0,1,1
+1,Compadre,10.1111/j.1442-1984.1987.tb00030.x,Kinoshita,Plant Species Biology,Arisaema serratum ,1987,1,1,1,1,1,0,1,1
+1,Compadre,10.1007/BF00042253,Ebert,Vegetatio,Betula nana,1989,1,1,1,1,1,1,1,1
+1,Compadre,10.1111/wre.12075,Hyvonen,Weed Research,Amaranthus retroflexus/Echinochloa crus-galli ,2014,0,1,1,1,1,1,1,0
+1,Comadre,10.1111/j.1095-8649.2007.01445.x,Buston,Journal of Fish Biology,Amphiprion percula ,2007,1,1,0,1,1,1,1,1
+1,Comadre,10.1890/11-0488.1,Carson,Ecology,Mytilus californianus/Mytilus galloprovincialis ,2011,1,1,1,1,1,0,1,0
+1,Compadre,10.1007/s11258-004-0026-0,Endels,Plant Ecology,Primula veris ,2005,1,1,0,1,1,1,1,1
+1,Compadre,10.1016/j.foreco.2005.02.052,Rodriguez-Buritica,Forest Ecology and Management,Geonoma orbignyana ,2005,1,1,1,1,1,0,1,1
+1,Comadre,10.1890/ES10-00065.1,Hernandez-Pacheco,Ecosphere,Montastraea annularis ,2011,1,1,0,1,1,1,1,1
+1,Comadre,10.1111/j.1365-2656.2012.02029.x,Radchuk,Journal of Animal Ecology,Boloria eunomia ,2013,1,1,1,1,1,1,1,0
+1,Compadre,10.1016/j.foreco.2008.11.018,Knight,Forest Ecology and Management,Odocoileus virginianus,2009,1,1,1,1,1,0,1,1
+2,Compadre,10.1007/s11258-010-9762-5,Laura Hill Bermingham,Plant Ecology,Polemonium vanbruntiae ,2010,1,1,1,1,1,0,1,0
+2,Comadre,10.1890/07-0774.1,William F. Morris,Ecology,36 species ,2008,0,1,0,1,1,0,1,0
+2,Compadre,10.2307/1939207,Dr. Laura Foster Huenneke,Ecological Society of America,Alnus incana ssp. rugosa,1987,1,0,0,1,1,0,1,0
+2,Comadre,10.1016/j.jembe.2011.07.018,Alex E. Mercado-Molina,Journal of Experimental Marine Biology and Ecology,Amphimedon compressa,2011,1,0,0,1,1,1,1,0
+2,Compadre,10.1890/05-0195,Katriona Shea,Ecology,Carduus nutans,2005,1,1,1,1,1,1,1,0
+2,Comadre,10.1163/15685381-00002843,Jaime Zúñiga-Vega,Amphibia-Reptilia,Sceloporus grammieus,2012,1,1,1,0,1,1,1,0
+2,Compadre,10.1007/s10531-004-0827-4,Aditi Sinha,Biodiversity and conservation ,Phyllanthus emblica,2004,1,1,0,1,1,1,1,0
+2,Comadre,10.1111/j.1558-5646.2011.01366.x,Marlene Gamelon,Evolution,Sus scrofa scrofa,2011,1,0,1,1,1,0,1,0
+2,Compadre,10.3159/1095-5674(2007)134[369:PEOPHO]2.0.CO;2,Joyce M. Reddoch,Journal of the Torrey Botanical Society,Platanthera hookeri (Orchidaceae) ,2007,1,0,1,1,0,1,1,0
+2,Comadre,10.1007/s10980-013-9896-7,Torre J. Hovick,Landscape Ecology (Springer),Ammodramus savannarum,2013,1,1,0,0,1,0,1,0
+2,Comadre,10.1111/eea.12325,Ximena Cibils-Stewart, Entomologia Experimentalis et Applicata,Brevicoryne brassicae L,2015,1,0,1,1,1,1,1,0
+2,Comadre,10.1017/S0376892917000340,Evan J pickett,Environmental Conservation,Platalea minor,2017,1,1,1,1,1,0,1,0
+2,Compadre,10.1086/284803,William  J.  Platt,The American Naturalist,Pinus palustris Mill,1998,1,1,0,0,1,0,1,0
+2,Compadre,10.1086/510758, Diane R. Campbell,The American Naturalist,"Ipomopsis aggregata,  Ipomopsis tenuituba",2007,1,0,0,1,1,0,1,0
+2,Comadre,10.1111/j.1523-1739.2003.00191.x,E.E. Holmes,Conservation Biology,Eumetopias jubatus,2003,1,1,1,1,1,0,1,0
+2,Comadre,10.1016/S0006-3207(03)00171-X,Juan E Martinez Gomez,Biological Conservation,Puffinus auricularis auricularis,2004,1,1,0,1,1,0,1,0
+2,Comadre,10.3354/meps081031,Thomas A Ebert,Marine Ecology Progress Series,Strongylocentrotus franciscanus,1992,1,0,0,1,1,1,1,0
+2,Compadre,10.1111/j.1442-1984.1993.tb00062.x,Dennis F Whigham,Plant Species Biology,Cynoglossum virginianum (3 Subpopulations),1993,1,0,0,0,0,1,1,0
+2,Compadre,10.1371/journal.pone.0075563,Lucie Cerna ,PLOS One,"Anthericum liliago, Anthericum ramosum",2013,1,0,0,1,1,0,1,0
+2,Comadre,10.1111/1365-2656.12399,Shay O'Farrell,Journal of Animal Ecology ,Sparisoma viride,2015,1,0,0,0,1,0,1,0
+2,Comadre,10.1111/mms.12427,Robert L DeLong,Marine Mammal Science ,Zalophus californianus,2017,1,0,0,0,1,1,1,0
+2,Compadre,10.1111/j.1365-2664.2004.00990.x,Sarah M. Emery,Journal of Applied Ecology,Centaurea maculosa,2005,1,1,1,1,1,0,1,0
+2,Compadre,10.1017/S0266467402002018,Pieter A Zuidema,Journal of Tropical Ecology ,Bertholletia excelsa,2002,1,0,0,1,1,1,1,0
+2,Compadre,10.1111/j.2041-210X.2011.00104.x,Justin MJ Travis,Methods in Ecology and Evolution,Rhododendron ponticum,2011,0,1,0,1,1,0,0,0
+2,Compadre,10.2307/3237044,Shin Abe ,Journal of Vegetation Science,Styrax obassia,1998,1,0,1,1,1,1,1,0
+2,Compadre,10.1111/j.1365-2745.2005.01007.x,Phillip J Van Mantgem,Journal of Ecology,"1. Abies concolor
+2. Abies magnifica
+3. Calocedrus decurrens
+4. Pinus jeffreyi
+5. Pinus lambertiana
+6. Pinus ponderosa",2005,1,1,0,1,1,0,1,0
+2,Compadre,10.2307/3236906,Anne Tolvanen,Journal of Vegetation Science,,2001,1,1,1,1,1,1,1,0
+2,Compadre,10.1016/j.biocon.2009.12.037,Inger Auestad,Biological Conservation,Pimpinella saxifraga,2010,1,1,1,1,1,1,1,0
+2,Comadre,10.1038/s41467-018-03506-3,Joanie Van De Walle,Nature Communications,Ursus arctos,2018,1,1,0,1,1,1,1,1
+2,Compadre,10.1007/s10144-009-0143-7,Piet Bremer,Population Ecology,asplenium scolopendrium,2009,1,1,0,1,1,1,1,0
+2,Compadre,10.2307/2937136,Carol C Horvitz,Ecological Sciety of America,Calathea ovandensis,1995,1,1,0,1,1,0,1,0
+2,Comadre,10.1016/S0304-3800(03)00171-6,Adam H Freedman,Ecological Modelling,Ursus americanus,2003,0,0,1,1,1,0,1,0
+2,Comadre,10.2307/2641117,David B Lindenmayer,Ecological Applications,"1. Petauroides volans
+2. Trichosurus caninus
+3. Pseuidocheirus peregrinus",2000,1,1,0,1,1,1,1,0
+2,Comadre,10.1046/j.1523-1739.2003.01552.x,Carlos Carroll,Conservation Biology,Canis lupus,2003,1,0,0,1,1,0,1,0
+2,Comadre,10.1111/j.1600-0706.2011.19735.x,Carolina Perez Heydrich,Oikos,Gopherus polyphemus,2011,0,1,0,1,1,0,0,0
+2,Compadre,10.1002/ece3.765,Rafael F. del Castillo,Ecology and Evolution,Catopsis compacta,2013,1,0,0,1,1,0,1,0
+2,Comadre,10.2981/13-021,Ayaka Suzuki,Bio One,Lagopus muta japonica,2013,1,1,0,1,1,1,1,0
+2,Comadre,10.2307/177030,Craig M Pease,Ecological Society of America,Ursus arctos,1999,1,0,0,1,1,0,1,0
+2,Compadre,10.1007/s10457-011-9447-7,Eduardo Somarriba,Agroforestry Systems,Acacia pennatula,2012,1,0,1,1,1,1,1,0
+2,Comadre,10.1016/j.jglr.2011.11.002,Eric A Howe,Journal of Great Lakes Research,,2012,1,0,1,1,1,0,1,0
+2,Comadre,10.2307/1941498,Donald W Tinkle,Ecological Society of America,Chrysemys picta,1981,1,0,0,0,0,0,1,0
+2,Comadre,10.1016/j.ecolmodel.2010.06.026,Ruscena Wiederholt,Ecological Modelling,Alouatta seniculus,2010,1,0,0,0,1,1,1,0
+2,Comadre,10.1111/j.1365-2664.2005.01067.x,Andres J Novaro,Journal of Applied Ecology,Pseudalopex culpaeus,2005,1,0,0,1,1,1,1,0
+2,Comadre,10.1007/s00338-015-1341-8),Alex E. Mercado-Molina,Coral Reefs,Acropora cervicornis,2015,1,0,0,1,1,1,1,0
+2,Compadre,10.1016/j.foreco.2016.03.028,V. Aschero,Forest Ecology and Management,Prosopis flexuosa,2016,1,1,0,1,1,1,1,0
+2,Compadre,10.1007/s10144-014-0438-1,Elizabeth L. Stephens,Population Ecology,"1. Chamaecrista fasciculata
+2. Balduina angustifolia",2014,1,0,1,1,1,0,1,0
+2,Comadre,10.1046/j.1523-1739.2001.0150041102.x,D. Grant Hokit,Conservation Biology,Sceloporus woodi,2001,1,1,0,1,1,0,1,0
+2,Comadre,10.2307/3808459,Neil F Payne,"Wiley, Wildlife Society",Castor canadensis,1984,1,0,0,0,1,0,1,0
+2,Compadre,10.1016/S1872-2032(08)60021-9,Liu Zhongjian,Acta Ecologica Sinica,Cypripedium lentiginosum,2008,0,0,0,1,1,1,1,0
+2,Compadre,10.1890/04-1483,Anthony L Koop,Ecology,Ardisia elliptica,2005,1,0,1,1,1,0,1,0
+2,Comadre,10.3354/esr00835,Samuel Pinya,Endangered Species Research,Alytes muletensis,2017,1,0,1,0,1,0,1,0
+2,Compadre,10.1034/j.1600-0706.2003.11493.x,Christel Gustafsson,Oikos,Sanicula europaea,2003,1,0,0,1,1,0,1,0
+2,Comadre,10.1016/j.ecolmodel.2017.02.001,Madan K Oli,Ecological Modelling,Dasypus novemcinctus,2017,1,0,1,1,1,1,1,0
+2,Comadre,10.1016/j.biocon.2007.01.015,Robert H Hilderbrand,Science Direct,Sciurus niger cinereus,2007,0,0,0,0,1,0,1,0
+2,Comadre,10.2307/1369293,Barbara W Massey,The Cooper Ornithological Society,Sterna antillarum browni,1992,1,0,0,0,1,0,1,0
+2,Compadre,10.2307/2387694,Stephen H Bullock,Biotropica,Podococcus barteri ,1980,1,1,0,1,1,1,1,0
+2,Comadre,10.1016/S0025-5564(02)00119-0,Jonathan M Yearsley,Mathematical Biosciences,Puffinus tenuirostris,2002,0,0,1,1,1,0,0,0
+2,Compadre,10.1016/j.biocon.2005.02.001,Vanessa M Adams,Biological Conservation,Helenium virginicum,2005,1,0,0,1,1,0,1,0
+2,Compadre,10.1007/978-94-009-2049-1_27,P. Ang Jr,Hydrobiologia,Iridaea splendens,1990,0,0,0,1,1,0,1,0
+2,Comadre,10.1007/s10144-008-0075-7,,Bonnie J Ripley,Multiple,2008,0,1,0,1,1,0,0,0
+2,Compadre,10.2307/2426148,Kathleen H Keeler,The American Midland Naturalist,Ipomoea leptophylla,1991,1,0,0,0,1,0,1,0
+2,Compadre,10.1071/BT06032,Colin J Yates,Australian Journal of Botany,Verticordia staminosa,2007,1,0,1,1,1,0,1,0
+2,Comadre,10.1016/j.biocon.2004.01.029,Leah R Gerber,Biological Conservation,15 Species ,2004,1,0,0,1,1,0,0,0
+2,Compadre,10.2307/2261662,Brita M Svensson,Journal of Ecology,"1. Pinguicula alpina
+2. Pinguicula villosa
+3. Pinguicula vulgaris",1993,1,0,0,1,1,1,1,0
+2,Compadre,10.1046/j.1523-1739.1996.10010040.x,Joelisoa Ratsirarson,Conservation Biology,Neodypsis decaryi,1996,1,0,0,1,1,1,1,0
+2,Compadre,10.1111/j.1365-2745.2006.01115.x,Bret D Elderd,Journal of Ecology,Mimulus guttatus,2006,1,0,0,1,1,1,1,0
+2,Comadre,10.1163/156853808784124992,R Isaac Rojas-Gonzalez,Amphibia-Reptilia,Xenosaurus platyceps,2008,1,0,0,1,1,0,1,0
+2,Comadre,10.1016/j.jhevol.2004.08.006,S.A. Wich,Journal of Human Evolution,Wild Sumatran orangutans,2004,1,0,0,0,1,1,1,0
+2,Comadre,10.1007/s10144-015-0499-9,M.K.L.Strauss,Population Ecology,Giraffa camelopardalis tippelskirchi,2015,1,1,1,1,1,0,1,0
+2,Comadre,10.1111/evo.12952,Thomas Kvalnes,Evolution ,Alces alces,2016,1,1,0,0,1,1,1,0
+2,Compadre,10.1111/j.1365-2745.2006.01147.x,Guy Colling,Journal of ecology ,Scorzonera humilis,2006,1,0,0,1,1,1,1,0
+2,Compadre,10.1111/1365-2664.13112,Macro Andrello,Journal of Applied Ecology,Eryngium alpinum ,2018,1,0,0,0,1,1,1,0
+2,Comadre,10.1016/j.envpol.2013.08.031,Christopher J Salice,Environmental Pollution,Chelydra serpentina ,2014,0,0,1,1,1,0,1,0
+2,Compadre,10.1016/j.biocon.2017.04.019,Hilde Hens,Biological Conservation,Epipactis atrorubens ,2017,1,1,1,1,1,1,1,0
+2,Comadre,10.1080/11956860.2001.11682641,Goran Ericsson ,Ecoscience,Alces alces ,2001,1,0,0,0,0,1,1,0
+2,Compadre,10.1046/j.1523-1739.1996.10020608.x,Patrick Nantel,Conservation Biology,Panax quinquefolium & Allium tricoccum ,1996,1,1,0,1,1,0,0,0
+2,Comadre,10.2193/2006-146,Bradley F Blackwell,The Journal of Wildlife Management ,Coragyps atratus,1976,1,1,0,1,1,1,1,0
+2,Comadre,10.1002/jwmg.628,Jennifer E Chastant, Population Ecology ,Phalacrocorax auritus,2014,1,0,0,1,1,1,1,0
+2,Compadre,10.1007/s10144-013-0364-7,Olusegun O Osunkoya,Population ecology,Lantana camara L ,2013,1,0,1,1,1,1,1,0
+2,Comadre,10.2307/1935638,Graeme Caughley,Ecology,Hemitragus jemlahicus,1965,1,0,0,0,0,0,1,0
+2,Comadre,10.1086/587530,N. A. Hartemink,The American Naturalist ,Ixodes ricinus ,2007,0,0,0,1,1,0,0,0
+2,Comadre,10.1890/09-1641,Christine M Hunter,Ecology,Ursus maritimus ,2010,1,1,1,1,1,0,1,0
+2,Comadre,10.1023/B:EMAS.0000016881.12925.b1,Joshua J Lawler,Environmental Monitoring and Assessment ,1. Buteo lineatus & 2. Accipiter gentilis ,2004,0,0,0,1,1,0,1,0
+2,Comadre,10.1111/j.1748-7692.1994.tb00388.x,Anne E York,Marine Mammal Science,Eumetopias jubatus ,1994,1,0,0,1,1,0,1,0
+2,Compadre,10.1007/s11258-010-9749-2,Deanna L Christensen, Plant Ecology,Hydrastis canadensis ,2010,1,0,1,1,1,0,1,0
+2,Comadre,10.3398/1527-0904(2007)67[492:GADOOP]2.0.CO;2,Angela M. Ortega-León,Western North American Naturalist,Sceloporus mucronatus mucronatus,2007,1,1,1,1,1,1,1,0
+2,Compadre,10.1890/13-1984.1,Chirakkal V. Haridas,Ecological Society of America,Opuntia macrorhiza,2013,1,0,0,0,1,0,1,0
+2,Compadre,10.1111/j.1523-1739.2006.00368.x,Kari Lehtila,Conservation Biology ,Primula veris L.,2006,1,0,0,1,1,0,1,0
+2,Compadre,10.1300/J091v23n01_05,Teresa Valverde,Journal of Sustainable Forestry ,Chamaedorea elegans,2006,1,0,0,1,1,1,1,0
+2,Comadre,10.2307/1939945,Walter L Clinton,Ecology,Mirounga angustirostris,1993,1,0,0,0,1,0,1,0
+2,Comadre,10.1016/S0304-3800(99)00145-3,Jacoby Carter,Ecological Modelling,Ailuropoda melanoleuca,1999,0,0,0,1,1,0,1,0
+2,Comadre,10.5253/078.100.0208,Rob G Bijlsma,BioOne,Pernis apivorus,2012,1,0,1,1,1,1,1,0
+2,Compadre,10.3732/ajb.0900351,Anna Bucharova,American Journal of Botany,"1. Asplenium adulterinum
+2. Asplenium cuneifolium",2010,1,1,0,1,1,1,1,0
+2,Compadre,10.1111/j.1442-9993.1982.tb01304.x,N J Enright,Australian Journal of Ecology,Araucaria hunsteinii ,1982,0,0,0,0,0,0,0,0
+2,Compadre,10.1007/s11258-014-0344-9,Sara E. Scanga,Plant Ecology,Trollius laxus ,2014,1,0,0,1,1,0,1,0
+2,Compadre,10.1016/j.foreco.2013.05.049,Michelle M Jackson,Forest Ecology and Management ,Prosartes lanuginosa ,2013,1,0,1,1,1,0,1,0
+2,Compadre,10.1046/j.1523-1739.1997.96159.x,Joyce Maschinski,Conservation Biology,Astragalus cremnophylax var. cremnophylax,1997,1,0,0,1,1,0,1,0
+2,Compadre,10.2307/2261672,Karin Bengtsson,Journal of Ecology,Fumana procumbens ,1993,1,0,0,1,1,1,1,0
+2,Comadre,10.1016/j.jnc.2013.06.002,Shem D Unger,Journal for Nature Conservation ,Cryptobranchus alleganiensis alleganiensis ,2013,1,1,1,1,1,0,1,0
+2,Comadre,10.1080/20018091094835,Timothy R Gleason,Human and Ecological Risk Assessment,"1. Pimephales promelas 
+2. Alcedo atthis
+3. Sterna antillarum browni ",2001,0,1,1,1,1,0,0,0
+2,Compadre,10.3719/weed.50.60,Paula R Westerman,Weed Science,Abutilon theophrasti,2005,1,0,0,1,1,0,1,0
+2,Comadre,10.1163/157075610X523260,Chris Klok,Animal Biology ,Anser anser ,2010,1,0,1,1,1,1,1,0
+2,Comadre,10.1007/BF00390542,D. J. Brousseau,Marine Biology,Mya arenaria ,1978,1,0,0,0,1,1,1,0
+2,Comadre,10.1007/BF02765226,Nigel G. Yoccoz,Researches on Population Ecology,Clethrionomys rufocanus ,1998,1,0,0,1,1,1,1,0
+2,Comadre,10.1655/HERPETOLOGICA-D-12-00038R2,Hibraim A Perez-Mendoza,Herpetologica,Sceloporus grammicus ,2013,1,0,0,1,1,1,1,0
+2,Compadre,10.1890/04-1952,Catherine A. Pfister,Ecology,Alaria nana,2005,1,1,1,1,1,1,1,0
+2,Compadre,10.1111/j.1654-1103.2004.tb02286.x,Hara M,Journal of Vegetation Science ,"1. Hydrangea paniculata 
+2. Lindera umbellata var. membranacea 
+3. Magnolia salicifolia 
+4. Viburnum furcatum
+",2004,1,0,1,1,1,1,1,0
+2,Comadre,10.2192/1537-6176-20.1.12,Masao Kohira,Ursus,Ursus arctos yesoensis ,2009,1,0,0,1,1,1,1,0
+2,Comadre,10.4039/Ent1051465-11,Alan A Berryman,The Canadian Entomologist,Scolytus ventralis LeConte,1973,1,0,0,0,1,0,1,0
+2,Compadre,10.1111/j.1523-1739.2008.01073.x,Sharmila Pathikonda,Conservation Biology,"1. Iris hexagona
+2. Iris pseudacorus ",2009,0,1,1,1,1,0,1,0
+2,Compadre,10.1111/j.1365-2745.2011.01910.x,James M Bullock,Journal of Ecology ,"1. Himantoglossum hircinum 
+2. Cirsium acaule 
+3. Erica ciliaris 
+4. Conyza canadensis 
+5. Lactuca serriola 
+6. Ailanthus altissima ",2012,1,1,0,1,1,0,1,0
+2,Comadre,10.2307/1940983,Catherine S. McFadden,Ecology,Alcyonium sp ,1991,1,1,0,1,1,1,1,0
+2,Compadre,10.1007/s11258-011-9906-2,Marianna Evju,Population Ecology,Geranium sylvaticum,2011,1,1,1,1,1,1,1,0
+2,Compadre,10.1007/s12231-014-9295-2,Ignacio Torres,Economic Botany,Agave potatorum ,2015,1,1,0,1,1,0,1,0
+2,Compadre,10.1890/ES11-00328.1,Richard P. Shefferson,Ecosphere,"1. Cypripedium calceolus 
+2. Cephalanthera longifolia",2012,1,1,0,1,1,0,1,0
+2,Comadre,10.1371/jourNAl.pone.0034379,Jeffrey A. Hostetler,PLoS ONE,Callospermophilus lateralis ,2012,1,1,0,1,1,1,1,0
+2,Comadre,10.1016/j.jas.2012.04.037,Hervé Monchot,Journal of Archaeological Science , Hystrix refossa Gervais ,2012,1,1,1,1,1,0,1,0
+2,Comadre,10.1007/s10764-009-9332-7,Lynne A. Isbell,International Journal of Primatology,"1. Erythrocebus patas 
+2. Cercopithecus aethiops",2009,1,0,0,0,1,1,1,0
+2,Compadre,10.1093/aob/mcp188,Manuela Winkler,Annals of Botany,"1. Jacquiniella leucomelana 
+2. Jacquiniella teretifolia
+3. Lycaste aromatica ",2009,1,1,0,1,1,1,1,0
+2,Compadre,10.2307/2445615,Peter Lesica, American Journal of Botany,Arabis fecunda,1995,1,0,0,0,1,0,1,0
+2,Compadre,10.1111/j.1469-8137.1984.tb03596.x,L A Boorman,New Phytologist,"1. Lactuca virosa     
+2. Cynoglossum officinale",1984,1,0,0,0,1,0,1,0
+2,Comadre,10.1093/jme/tjw021,Patrick J. Hanly,Journal of Medical Entomology,Aedes triseriatus,2016,1,1,1,1,1,0,1,0
+2,Comadre,10.1046/j.1523-1739.2002.00433.x,Roman Biek,Conservation Biology,"1. Bufo boreas, 
+2. Rana aurora 
+3. Rana temporaria ",2002,0,1,0,1,1,0,0,0
+2,Comadre,10.1111/j.1365-2664.2012.02160.x,Marlène Gamelon,Journal of Applied Ecology ,Sus scrofa scrofa ,2012,1,0,0,1,1,1,1,0
+2,Compadre,10.1890/09-0750,Janet Prevey,Ecological Applications ,"1. Tragopogon dubius 
+2. Lactuca serriola ",2010,1,0,1,1,1,1,1,0
+2,Compadre,10.1046/j.1442-1984.1999.00007.x,Yuko Kaneko,Plant Species Biology ,Aesculus turbinata ,1999,1,0,1,1,1,1,1,0
+2,Comadre,10.2307/3546090,Masahiro Nakaoka,Oikos,Yoldia notabilis,1997,0,0,0,1,1,0,1,0
+2,Compadre,10.1086/284796,Otto T Solbrig,The American Naturalist,Viola fimbriata,1988,1,1,1,1,1,0,1,0
+2,Compadre,10.1007/s11258-007-9393-7,Tetsuto Abe,Plant Ecology,Stachyurus macrocarpus ,2008,1,0,0,1,1,0,1,0
+2,Compadre,10.1007/s10530-004-5572-9,Laura A. Hyatt,Biological Invasions,Polygonum perfoliatum L,2006,1,1,1,1,1,0,1,0
+2,Compadre,10.1111/aec.12045,Neal J Enright,Austral Ecology ,Araucaria muelleri,2014,1,0,0,1,1,0,1,0
+2,Comadre,10.1007/s10144-011-0292-3,Natalie L. Hyslop,Population Ecology,Drymarchon couperi,2012,1,1,1,1,1,0,1,0
+2,Comadre,10.2307/1381947,Jia Luo,Journal of Mammalogy,"1. Spermophilus dauricus
+2. Urocitellus columbianus",1990,1,0,0,0,1,1,1,0
+2,Compadre,10.1111/1365-2664.12057,"Matlaga, David P",Journal of Applied Ecology ,Miscanthus × giganteus,2013,0,1,1,1,1,0,1,0
+2,Comadre,978-1-4939-0697-0,,,,,,,,,,,,
+2,Compadre,10.1016/j.biocon.2004.03.019,T. Ticktin,Biological Conservation,Aechmea magdalenae,2004,1,1,0,1,1,0,1,0
+2,Compadre,10.1646/1601,Martha Méndez,Biotropica,Pterocereus gaumeri,2004,1,0,0,1,1,1,1,0
+2,Compadre,10.1111/gcb.12167,Nina Sletvold,Global Change Biology ,Dactylorhiza lapponica,2013,1,0,1,0,1,1,1,0
+2,Compadre,10.1007/s00442-012-2301-4,Robert K. Shriver,Oecologia,Vulpicida pinastri ,2012,1,0,0,1,1,0,1,0
+2,Comadre,10.2307/2404820,E. Marboutin,Journal of Applied Ecology ,Lepus europaeus,1995,1,0,0,1,1,0,1,0
+2,Compadre,10.1046/j.1365-2664.2003.00842.x,R. P. Freckleton,"Journal of Applied Ecology
+",Euterpe edulis ,2003,0,0,0,1,1,0,1,0
+2,Comadre,10.1016/S0304-3800(01)00433-1,Milani Chaloupka,Ecological Modelling,Green sea turtles,2002,0,1,1,1,1,0,1,0
+2,Comadre,10.3354/meps10547,L F New,Marine Ecology Progress Series,Mirounga leonina,2014,1,0,0,1,1,0,1,0
+2,Comadre,10.1016/j.ecolmodel.2017.07.023,María Laura Maestri,Ecological Modelling,Ara glaucogularis ,2017,1,1,1,1,1,0,1,0
+2,Compadre,10.1023/B:VEGE.0000046052.35390.59,Héctor Godínez-Alvarez,Plant Ecology,Neobuxbaumia macrocephala ,2004,1,0,0,1,1,1,1,0
+2,Comadre,10.2307/3801764,John Van Sickle,The Journal of Wildlife Management,Large mammals,1987,0,0,0,0,0,0,0,0
+2,Compadre,10.1007/s00442-008-0980-7,Johannes Verhulst,Oecologia ,"1. Atriplex canescens 
+2. Atriplex acanthocarpa ",2008,1,1,0,1,1,1,1,0
+2,Comadre,10.1016/j.ecolmodel.2014.08.021,D. L. Lewis,Ecological Modelling ,Ursus americanus ,2014,1,1,1,1,1,0,1,0
+2,Comadre,10.1126/science.275.5298.389,R. F. Costantino,Science,Tribolium,1997,0,0,0,0,0,0,0,0
+2,Comadre,10.1016/j.ecss.2015.11.012,Benjamin Tomlinson,"Estuarine, Coastal and Shelf Science",Pelagia noctiluca,2015,1,0,0,1,0,0,1,0
+2,Compadre,https://doi.org/10.1002/ecs2.2706, Patricia A Werner,Ecosphere,Savanna tree populations,2019,1,0,1,1,1,1,1,0
+2,Comadre,10.1643/CE-14-191,Vivian P Páez,Copeia,Podocnemis lewyana,2015,1,0,1,1,1,1,1,0
+2,Compadre,10.1111/j.1365-2664.2012.02117.x,Joseph T. Dauer,Journal of Applied Ecology,Jacobaea vulgaris,2012,1,1,1,1,1,0,1,0
+2,Comadre,10.1890/0012-9658(2002)083[2194:PDCOPI]2.0.CO;2,Anne M Bronikowski,Ecology,Poecilia reticulata,2002,1,0,1,1,1,0,1,0
+2,Comadre,10.1007/s11252-016-0566-9,M. T Makenov,Urban Ecosystems,"Stray dogs 
+ ",2016,1,1,0,1,1,0,1,0
+2,Compadre,10.2216/i0031-8884-25-1-11.1,Robert E. De Wreede,Phycologia,Pterygophora californica,1986,1,0,0,1,1,0,1,0
+2,Comadre,10.1890/02-5010,Nathan H Schumaker,Ecological Applications ,17 wildlife species ,2004,0,1,1,1,1,0,1,0
+2,Compadre,10.1016/j.baae.2015.02.009, Jose L Silva,Basic and Applied Ecology,"1. Sonchus pustulatus
+2. S. pustulatus
+3. S. fragilis
+4. S. masguindalii",2015,1,1,0,1,1,1,1,0
+2,Compadre,10.1034/j.1600-0587.2002.250211.x,Henrik Berg,Ecography,Oxalis acetosella ,2002,1,1,0,1,1,1,1,0
+2,Compadre,10.1007/s10144-017-0572-7,Román Hernández-Pedrero,Population Ecology ,Furcraea parmentieri ,2017,1,1,0,1,1,1,1,0
+2,Comadre,10.1002/wmon.1012,David W Howerter,Wildlife Monographs,Anas platyrhynchos,2014,1,1,0,1,1,1,1,0
+2,Comadre,10.1139/Z03-045,Matthew G Mitro,Canadian Journal of Zoology,Malaclemys terrapin,2003,1,1,0,1,1,0,1,0
+2,Comadre,10.1676/12-154.1,Lesley Bulluck,The Wilson Journal of Ornithology,Vermivora chrysoptera,2013,1,0,0,1,1,0,1,0
+2,Compadre,10.1111/plb.12007,Z Münzbergová,Plant Biology,Linum flavum and L. tenuifolium ,2013,1,0,0,1,1,0,1,0
+2,Compadre,10.1111/j.1442-9993.2006.01650.x,Alexandre F. Souza,Austral Ecology,Geonoma brevispatha,2006,1,0,1,1,1,1,1,0
+2,Compadre,10.1098/rspb.2018.1091,Pauline O Pantoja,Royal Society,Mimulus guttatus,2018,1,1,0,1,1,1,1,0
+2,Compadre,10.1002/ece3.2163,Chia-Hua Lin,Ecology and Evolution ,Dicentra canadensis,2016,1,1,1,1,1,1,1,0
+2,Compadre,10.1890/11-0948.1,Mary Bricker,Ecology,Lithospermum ruderale,2012,1,1,1,1,1,0,1,0
+2,Compadre,10.1111/j.1523-1739.2004.00567.x,Charles Kwit,Conservation Biology,Taxus floridana,2004,1,1,1,1,1,0,1,0
+2,Compadre,10.1007/978-94-017-1345-0_12,A Tolvanen,Evolutionary Ecology,Salix arctica,2002,1,0,1,1,1,1,1,0
+2,Compadre,10.1007/s11258-010-9737-6,Alejandro Flores Martínez,Plant Ecology,Mammillaria huitzilopochtli,2010,1,1,1,1,1,1,1,0
+2,Comadre,10.1071/WR10080,Brian Chambers,Wildlife Research,Macropus eugenii,2010,1,0,1,1,1,1,1,0
+2,Compadre,10.2307/2261390,J. M. Bullock,Journal of Ecology ,Cirsium vulgare,1994,1,1,1,1,1,0,1,0
+2,Compadre,10.2307/1936930,Patricia A. Werner,Ecology,Dipsacus sylvestris Huds,1977,1,1,0,1,1,0,1,0
+2,Comadre,10.1890/0012-9658(2001)082[1921:EODROU]2.0.CO;2, Madan K Oli,Ecology,Spermophilus armatus,2001,1,1,1,1,1,0,1,0
+2,Compadre,10.1086/285599,Elena R Alvarez-Buylla,The American Naturalist,Cecropia obtiisifolia,1994,1,1,1,1,1,1,1,0
+2,Comadre,10.1139/cjfas-2012-0520,Masami Fujiwara,Canadian Journal of Fisheries and Aquatic Sciences,Epinephelus morio ,2013,0,1,1,1,1,0,0,0
+2,Comadre,10.2307/3802460,Lynn A. Maguire,The Journal of Wildlife Management,Picoides borealis,1995,1,0,0,1,1,0,1,0
+2,Comadre,10.1016/S0304-3800(99)00039-3,Wendell P. Cropper Jr,Ecological Modelling,Spongia graminea,1999,1,0,0,1,1,0,1,0
+2,Comadre,10.1642/0004-8038(2004)121[0015:MEOSAP]2.0.CO;2,Jason Jones,The Auk,Dendroica cerulea,2004,1,0,0,1,1,1,1,0
+2,Compadre,10.3398/064.077.0108,Janice L Hill,Western North American Naturalist,Silene spaldingii S. Watson,2017,1,0,1,1,1,0,1,0
+2,Compadre,10.1890/03-0119,Hélène Fréville,Ecology,Centaurea corymbosa,2004,1,1,1,1,1,0,1,0
+2,Comadre,10.1017/S1367943004001593,Robert Heinsohn,Animal Conservation ,Dugong dugon,2004,1,0,0,1,1,0,1,0
+2,Compadre,10.1111/1365-2745.12625,Pol Capdevila,Journal of Ecology ,Cystoseira zosteroides,2016,1,1,0,1,1,1,1,0
+2,Compadre,10.1111/j.1440-6055.2006.00556.x,S Raghu,Australian Journal of Entomology,Parkinsonia aculeata,2006,1,0,1,1,1,0,1,0
+2,Compadre,10.1007/s10592-010-0056-1,Florence Noël,Conservation Genetics,Brassica insularis,2010,1,1,1,1,1,0,1,0
+2,Compadre,10.1017/S0376892914000204,Tamara M Wong,Environmental Conservation,Alyxia stellata,2015,1,1,0,1,1,1,1,0
+2,Compadre,10.2307/2260308,Peggy Lee Fiedler,Journal of Ecology,"Calochortus obispoensi
+Calochortus pulchellus
+Calochortus tiburonensis",1987,1,1,0,1,1,1,1,0
+2,Compadre,10.1016/j.actao.2014.05.009,Tarin Toledo-Aceves,Acta Oecologica,"1. Tillandsia multicaulis
+2. Tillandsia punctulata",2014,1,1,0,1,1,1,1,0
+2,Comadre,10.1016/j.crvi.2005.09.009,Jean-Baptiste Pichancourt,C. R. Biologies,Abax parallelepipedus,2006,0,0,1,1,1,0,1,0
+2,Comadre,10.1007/s00442-010-1761-7,Brian R. Hudgens,Oecologia,"Urocyon littoralis
+Aquila chrysaetos",2011,1,0,0,1,1,1,1,0
+2,Comadre,10.2307/3803072,John L. Klavitter,The Journal of Wildlife Management,Buteo solitariu,2003,1,0,0,1,1,0,1,0
+2,Compadre,10.2307/2260724,Danielle Charron,Journal of Ecology,Panax quinquefolium,1991,1,1,0,1,1,0,1,0
+2,Comadre,10.1890/05-0486,Purnima Govindarajulu,Ecological Applications,Rana catesbeiana,2005,1,1,1,1,1,1,1,0
+2,Comadre,10.2307/3803153,Steven T. Hoekman,The Journal of Wildlife Management,Anas platyrhynchos,2002,1,1,1,1,1,0,1,0
+2,Comadre,10.1139/f05-245,Jacques Labonne,Canadian Journal of Fisheries and Aquatic Sciences,Zingel asper,2006,1,1,1,1,1,0,1,0
+2,Comadre,10.1093/plankt/fbv024,Natasha Henschke,The Journal of Plankton Research,Thalia democratica,2015,1,1,1,1,1,0,1,0
+2,Compadre,10.1080/17550874.2012.662534,Raúl García-Camacho,Plant Ecology & Diversity,Armeria caespitosa,2012,1,0,0,1,1,1,1,0
+2,Compadre,10.1017/S0266467400001620,Barot Sébastien,Journal of Tropical Ecology,Borassus aethiopum,2000,1,0,1,1,1,1,1,0
+2,Compadre,10.1111/j.1600-0587.2010.06250.x,Luis Giménez-Benavides,Ecography,Silene ciliata,2011,1,0,1,1,1,1,1,0
+2,Compadre,10.1046/j.1365-2745.1999.00388.x,Patrick Nantel,Journal of Ecology,Helianthus divaricatus & Rhus aromatica,1999,1,0,1,1,1,1,1,0
+2,Comadre,10.1046/j.1461-0248.2000.00138.x,Nicholas J. Gotelli,Ecology Letters,Solenopsis invicta,2000,1,0,0,1,0,1,1,0
+2,Compadre,10.1371/journal.pone.0102859, Raymond L. Tremblay,PLOS ONE,Lepanthes rupestris,2014,1,0,1,1,1,1,1,0
+2,Comadre,10.1890/0012-9658(1997)078[1019:EOASDA]2.0.CO;2,Jon T. Jorgenson,Ecology,Ovis canadensis,1997,1,0,0,0,1,1,1,0
+2,Comadre,10.1017/S0950268812000167,DTS Hayman,Epidemiology and Infection,Eidolon helvum,2012,1,0,0,0,1,0,1,0
+2,Comadre,10.1890/08-0305.1,Peter C. Sakaris,Ecological Applications,Pylodictis olivaris,2010,1,1,0,1,1,0,1,0
+2,Comadre,10.1155/2015/987060,Alberto M. Sabat,Journal of Marine Biology,Gorgonia ventalina,2015,0,0,0,1,1,0,1,0
+2,Comadre,10.1016/S0006-3207(02)00341-5,Mark Hebblewhite,Biological Conservation,Ursus americanus ,2003,1,0,1,1,1,0,1,0
+2,Comadre,10.1016/j.biocon.2013.09.005,Jennyffer Cruz,Biological Conservation,"1. Charadrius bicinctus
+2. Anarhynchus frontalis
+3. Chlidonias albostriatus
+4. Himantopus novaezelandiae",2013,1,0,0,1,1,1,1,0
+2,Comadre,10.1007/s00442-011-1931-2,Erin K. Grey,Oecologia,Botrylloides violaceus,2011,1,1,1,1,1,1,1,0
+2,Compadre,10.1007/bf02806475,Zuzana Münzbergová,Folia Geobotanica ,Scorzonera hispanica,2006,1,1,0,1,1,1,1,0
+2,Compadre,10.1890/07-1128.1,James M Bullock,Ecological Applications,Rhinanthus minor,2008,1,1,0,1,1,1,1,0
+2,Compadre,10.1016/j.ecolmodel.2012.07.022,Christie A Klimas,Ecological Modelling ,Carapa guianensis ,2012,1,1,1,1,1,1,1,0
+2,Comadre,10.1007/s10441-009-9090-0,Mansour Serghini,Acta Biotheoretica,Sardina pilchardus ,2009,1,1,1,1,1,1,1,0
+2,Compadre,10.1016/j.biocon.2006.07.012,Joyce Maschinski,Biological Conservation,Pseudophoenix sargentii,2006,1,0,0,1,1,0,1,0
+2,Compadre,10.1111/j.1744-7429.2009.00615.x,Lesley S. Rigg,Biotropica,Araucaria laubenfelsii,2010,1,0,0,1,1,1,1,0
+2,Comadre,10.1515/mamm.1984.48.3.327,W.A. Rodgers,Mammalia,Phacochoerus aethiopicus Pallas,1984,1,0,0,0,1,1,1,0
+2,Comadre,10.2307/1934778,C. A. Spinage,Ecology,"1. Aepyceros melampus Lichtenstein
+2. Syncerus cafler Sparrman
+3. Equus burchelli boehmi Matschie
+4. Phacochoerus aethiopicus Pallas",1972,1,0,0,1,1,0,1,0
+2,Compadre,10.2478/s11756-009-0002-1,Rolf Lutz Eckstein,Biologia ,"1. Viola elatior
+2. Viola pumila
+3. Viola stagninaI",2009,1,0,0,1,1,0,1,0
+2,Compadre,10.1016/j.jaridenv.2011.01.015,R.M. Portilla-Alonso,Journal of Arid Environments ,Coryphantha werdermannii,2011,1,0,0,1,1,0,1,0
+2,Compadre,10.1111/1365-2664.12217,Silvia Winter,Journal of Applied Ecology,Colchicum autumnale,2014,1,0,0,1,1,0,1,0
+2,Comadre,10.1890/08-2060.1,Steven E McMurray,Ecology,Xestospongia muta,2010,1,1,0,1,1,1,1,0
+2,Compadre,10.1086/297607,Sandra K Floyd,International Journal of Plant Sciences,Gaura neomexicanassp. coloradensis,1998,1,1,0,1,1,0,1,0
+2,Comadre,10.1086/597225,Lugui Qiu,Journal of Hematotherapy & Stem Cell Research ,Umbilical Cord Blood Cells,1999,1,0,0,0,0,0,0,0
+2,Compadre,10.1016/j.biocon.2011.12.012,Marco Andrello,Biological Conservation,Eryngium alpinum,2012,1,1,1,1,1,0,1,0
+2,Compadre,10.1111/j.1095-8339.2007.00628.x,Joan Pino,Botanical Journal of the Linnean Society,Kosteletzkya pentacarpos,2007,1,1,1,1,1,1,1,0
+2,Compadre,10.2307/2679864,Maria C. Mandujano,Ecology,Opuntia rastrera,2001,1,1,0,1,1,1,1,0
+2,Compadre,10.1111/j.1365-2745.2005.00958.x,Lourens Poorter,Journal of Ecology,Tachigali vasquezii,2005,1,0,0,1,1,1,1,0
+2,Comadre,10.1111/j.1469-1795.2007.00105.x,L. Zambrano,Animal Conservation,Ambystoma mexicanum,2007,1,1,0,1,1,0,1,0
+2,Comadre,10.2307/3803419,Nina H. Fefferman,The Journal of Wildlife Management, Tympanuchus cupid,2006,0,1,0,1,1,0,0,0
+2,Compadre,10.1007/s10144-015-0519-9,Tristan Lemke,Population Ecology,Trollius europaeus,2015,1,0,0,1,1,1,1,0
+2,Comadre,10.1890/0012-9615(2001)071[0377:RAODRT]2.0.CO;2,Evan Cooch,Ecological Monographs,Anser c. caerulescens,2001,1,1,1,1,1,1,1,0
+2,Comadre,10.3354/meps10377,R Jimenez Melero,Marine Ecology Progress Series,Arctodiaptomus salinus,2013,0,1,1,1,1,0,1,0
+2,Comadre,10.1139/Z08-124,J. J. Zúñiga-Vega,Canadian Journal of Zoology,Sceloporus grammicus,2008,1,0,1,1,1,1,1,0
+2,Comadre,10.1016/j.biocon.2003.11.002,Michael Schaub,Biological Conservation,Ciconia ciconia,2004,1,1,1,1,1,0,1,0
+2,Compadre,10.1023/A:1008623521755,Jerome Degreef,Genetic Resources and Crop Evolution,Phaseolus lunatus L.,1997,1,0,1,1,1,1,1,0
+2,Comadre,10.1007/s00442-015-3222-9,Albert Fernández-Chacón,Oecologia,Salmo trutta,2015,1,0,0,0,1,1,1,0
+2,Comadre,10.1111/j.0908-8857.2008.04189.x,Kari Koivula,Journal of Avian Biology,Calidris temminckii,2008,1,1,1,1,1,1,1,0
+2,Comadre,10.1016/j.ecolmodel.2003.06.007,Robert G. Wallace,Ecological Modelling,Human immunodeficiency virus,2004,1,0,1,1,1,0,1,1
+2,Comadre,10.1890/07-0018.1,Steven R. Beissinger,Ecological Monographs,Amazona vittata,2008,1,1,0,1,1,0,1,1
+2,Compadre,10.1023/A:1015506019670,Katariina Kivi­niemi ,Plant Ecology,Agrimonia eupatoria and Geum rivale,2002,1,1,1,1,1,1,1,0
+2,Comadre,10.1016/j.biocon.2014.05.026,Varun R Goswami,Biological Conservation,Elephas maximus,2014,0,1,0,1,1,0,0,0
+2,Comadre,10.1890/02-0409,Jean-Michel Gaillard,Ecology,22 Species ,2003,0,0,0,1,1,0,0,0
+2,Compadre,10.1111/j.1365-3180.2009.00703.x,CPD Borger,European Weed Research Society,Salsola australis,2009,1,1,1,1,1,0,1,0
+2,Compadre,10.1016/j.biocon.2006.10.038,Cecilia Jiménez-Sierra,Biological Conservation,Echinocactus platyacanthus,2007,1,1,1,1,1,1,1,0
+2,Compadre,10.1111/j.1365-2664.2005.01015.x,Johan Ehrlén,Journal of Applied Ecology,Primula veris,2005,1,0,0,1,1,0,1,0
+2,Compadre,10.1111/j.1529-8817.2010.00924.x,Vasco Manuel Nobre de Carvalho da Silva Vieira,Journal of Phycology,Gelidium sesquipedale,2010,0,0,1,1,1,0,1,0
+2,Compadre,10.1016/j.foreco.2008.02.041,Nicolas Picard,Forest Ecology and Management ,Entandrophragma cylindricum,2008,1,0,0,1,1,1,1,0
+2,Comadre,10.14430/arctic1733,F. Messier,Arctic ,Multiple ,1988,1,0,0,0,1,1,1,0
+2,Compadre,10.1890/02-5219,Alan B Griffith,Ecological Applications,Aeschynomene virginica,2005,1,1,1,1,1,0,1,0
+2,Comadre,10.1086/285729,Maria E Orive,The American Naturalist,Clonal corals,1995,0,0,1,1,1,0,0,0
+2,Compadre,10.1111/j.1523-1739.2011.01691.x,Demetria Mondragón Chaparro,Conservation Biology,"1. Tillandsia macdougallii, 
+2. Tillandsia violaceae",2011,1,0,0,1,1,1,1,0
+2,Compadre,10.1016/j.ecolmodel.2005.07.020,Dmitrii O. Logofet,Ecological Modelling ,"Calamagrostis canescens
+Piceetum sphagnosum
+Pinus sylvestris L
+Picea abies",2006,1,1,1,1,1,1,1,0
+2,Comadre,10.2193/2008-093,Jason S. Grear,The Journal of Wildlife Management,Gavia immer,2009,1,0,1,1,1,0,1,0
+2,Compadre,10.2307/2260717,Juan F. Silva,Journal of Ecology,Andropogon semiberbis,1991,0,1,1,1,1,1,1,0
+2,Comadre,10.1111/nrm.12034,Maija Holma,Natural Resource Modeling ,"Halichoerus grypus
+Salmo salar",2014,1,0,0,1,1,0,1,0
+2,Comadre,10.1111/j.1365-2656.2005.00975.x,Tim Coulson,Journal of Animal Ecology,"Ovis canadensis
+",2005,1,0,0,1,1,0,1,0
+2,Comadre,10.2307/1447431,Stanley F. Fox,Copeia,Uta stansburiana,1998,1,0,0,0,0,0,1,0
+2,Compadre,10.2307/1933696,Warren F. Steenbergh,Ecology,Cereus giganteus,1969,1,0,0,0,1,0,1,0
+2,Comadre,10.1093/icesjms/fsu056,Wen-Pei Tsai,Journal of Marine Science,Isurus oxyrinchus,2014,1,1,1,1,1,0,1,0
+2,Compadre,10.1007/s12080-017-0353-0,Charlotte de Vries,Theoretical Ecology,Lathyrus vernus,2017,0,1,0,1,1,0,1,0
+2,Compadre,10.1016/j.foreco.2010.11.007,L.B. Fortini,Forest Ecology and Management ,"Mora paraensis
+Licania heteromorpha
+Callycophyllum spruceanum
+Carapa guianensis Aubl.
+Virola surinamensis
+Licaria mahuba
+Pouteria sagotiana
+Platymiscium filipes",2011,1,1,0,0,1,0,1,0
+2,Comadre,10.1002/etc.5620210425,Anne Kuhn,Environmental Toxicology and Chemistry,Ampelisca abdita,2002,1,1,1,1,1,0,1,0
+2,Compadre,10.1016/j.tpb.2006.05.003,Alan Hastings,Theoretical Population Biology,Spartina alterniflora,2006,1,0,0,1,1,0,1,0
+2,Comadre,10.1111/j.1365-2656.2006.01118.x,Gillian L. Hadley,Journal of Animal Ecology,Leptonychotes weddellii Lesson,2006,1,0,0,0,1,1,1,0
+2,Comadre,10.1007/s10144-012-0306-9,Christian Kerbiriou,Population Ecology,Fulmarus glacialis,2012,1,0,1,1,1,1,1,0
+2,Compadre,10.1046/j.1365-2699.2000.00187.x,Juan F. Silva,Global Ecology & Biogeography,"1. Espeletia timotensis
+2. Espeletia spicata",2000,1,1,1,1,1,1,1,0
+2,Comadre,10.1016/0304-3800(93)E0081-D,A.L. Jensen,Ecological Modelling,Odocoileus virginianus borealis Miller,1995,1,1,1,1,1,0,1,0
+2,Comadre,10.2980/1195-6860(2007)14[362:LHOFRS]2.0.CO;2,Andrew G. McADAM,Écoscience,Tamiasciurus hudsonicus,2007,1,1,0,1,1,1,1,0
+2,Compadre,10.1086/507877,Matthew J Kauffman,The American Naturalist,Lupinus arboreus,2006,1,1,0,1,1,0,1,0
+2,Compadre,10.1007/s00442-013-2876-4,James O Eckberg,Oecologia,"Cirsium altissimum
+C. vulgare",2014,1,0,0,1,1,0,1,0
+2,Compadre,10.1016/j.biocon.2005.07.022,Gerhard Zotz,Biological Conservation,Aspasia principissa,2006,1,1,0,1,1,1,1,0
+2,Comadre,10.3354/meps234229,Jana L. D. Davis,Marine Ecology Progress Series,Clinocottus analis,2002,1,0,1,1,1,1,1,0
+2,Compadre,10.1046/j.1365-3180.1998.00068.x,J. Pino,Weed Research,Rumex obtusifolius,1998,1,1,1,1,1,0,1,0
+2,Comadre,10.2307/1382951,Mauricio Lima,Journal of Mammalogy,Arctocephalus australis,1997,1,1,0,1,1,1,1,1
+2,Compadre,10.1890/09-0480.1,Andrea P Loayza,Ecology,"Pteroglossus castanotis
+Guettarda viburnoides
+Cyanocorax cyanomelas
+",2010,1,1,1,1,1,1,1,0
+2,Comadre,10.1016/j.fishres.2008.11.006,Eduardo González-Olivares,Fisheries Research,Genypterus blacodes,2009,1,1,1,1,1,1,1,0
+2,Compadre,10.1139/B03-099,Heléne Fröborg,Canadian Journal of Botany,Actaea spicata,2003,1,0,1,1,1,1,1,0
+2,Comadre,10.1021/es049654o, G. Thomas Chandler,Environmental Science & Technology,Amphiascus tenuiremis ,2004,0,1,1,1,1,1,1,0
+2,Comadre,10.1016/S1631-0691(03)00148-3,Guillaume Chapron,C. R. Biologies,Canis lupus,2003,1,0,1,0,1,0,1,0
+2,Comadre,10.1890/0012-9658(2000)081[2250:RFLHAL]2.0.CO;2,Terence P Hughes,Ecology,"1. Montastrea annularis
+2. Agaricia agaricites
+3. Leptoseris cucullata",2000,1,1,0,1,1,0,1,0
+2,Compadre,10.2307/2401258,M. B. Usher ,Journal of Applied Ecology,No,1966,0,0,0,1,0,0,1,0
+2,Comadre,10.2307/1939879,Lisa A. Levin,Ecology,"1. Streblospio benedicti
+2. Capitella capitata
+3. Polydora ligni
+4. Ophrjyotroch daiadema",1987,0,1,0,1,1,1,1,0
+2,Compadre,10.1017/S0266467409990599,Maurício Bonesso Sampaio,Journal of Tropical Ecology,Geonoma schottiana,2010,1,0,0,1,1,1,1,0
+2,Compadre,10.2307/3236803,Asa Eriksson,Journal of Vegetation Science ,Plantago media,2000,1,0,1,1,1,0,1,0
+2,Comadre,10.1890/04-1688,Laura Rogers-Bennett,Ecological Applications,"1. Haliotis rufescens
+2. H. sorenseni",2006,1,1,0,1,1,0,1,0
+2,Comadre,10.2307/2402601,J. Harwood,Journal of Applied Ecology,Halichoerus grypus Fabriciu,1978,0,0,0,1,0,0,1,0
+2,Compadre,10.1111/j.1365-2745.2007.01279.x,Patrick Endels,Journal of Ecology,Primula vulgaris,2007,1,1,0,1,1,0,1,0
+2,Comadre,10.1086/physzool.30.4.30152211,Peter W. Frank,Physiological Zoology,Daphnia pulex,1957,1,0,0,0,1,0,0,0
+2,Comadre,10.1071/wr9850541,Anthony M A Smith,Australian wildlife research ,Crocodylus johnstoni ,1985,1,0,0,0,1,0,1,0
+2,Compadre,10.1111/j.1442-1984.1987.tb00030.x,Ehchiro Kinoshita,Plant Species Biology,Arisaema serratum,1987,1,0,0,1,1,0,1,0
+2,Compadre,10.1007/BF00042253,Thomas A. Ebert,Vegetatio,Betula nana,1989,1,0,1,1,1,1,1,0
+2,Compadre,10.1111/wre.12075,T. Hyvönen,European Weed Research Society,"Amaranthus retroflexus
+Echinochloa crus-galli",2014,1,0,0,1,1,1,1,0
+2,Comadre,10.1111/j.1095-8649.2007.01445.x,P. M. Buston,Journal of Fish Biology,Amphiprion percula,2007,1,0,0,1,0,1,1,0
+2,Comadre,10.1890/11-0488.1,Henry S Carson,Ecology,"1. Mytilus californianus
+2. Mytilus galloprovincialis",2011,1,0,1,1,1,0,1,0
+2,Compadre,10.1007/s11258-004-0026-0,Patrick Endels,Plant Ecology,Primula veris,2005,1,1,0,1,1,1,1,0
+2,Compadre,10.1016/j.foreco.2005.02.052,Susana Rodríguez-Buriticá,Forest Ecology and Management ,Geonoma orbignyana,2005,1,0,1,1,1,0,1,0
+2,Comadre,10.1890/ES10-00065.1,R Hernández-Pacheco,Ecosphere,Montastraea annularis,2011,1,1,0,1,1,1,1,0
+2,Comadre,10.1111/j.1365-2656.2012.02029.x,Viktoriia Radchuk,Journal of Animal Ecology ,Boloria eunomia,2012,1,0,1,1,1,1,1,0
+2,Compadre,10.1016/j.foreco.2008.11.018,Tiffany M. Knight,Forest Ecology and Management,"Trillium grandiflorum
+Odocoileus virginianus",2009,1,1,1,1,1,0,1,0
+3,Compadre,10.1007/s11258-010-9762-5,Laura Hill Bermingham,Plant Ecol,Polemonium vanbruntiae,2010,1,1,1,1,1,1,1,1
+3,Comadre,10.1890/07-0774.1,WILLIAM F. MORRIS,Ecology,"Alaria nana, Ardisia escallonioides, Ardisia elliptica, Argyroxyphium sandwicense, Calathea ovandensis, Collinsia verna  …. a lot of species noted in the suplementary material",2008,0,1,0,1,1,0,0,1
+3,Compadre,10.2307/1939207,LAURA FOSTER HUENNEKE,Ecology,ALNUS INCANA SSP. RUGOSA,1987,1,1,0,1,0,0,1,0
+3,Comadre,10.1016/j.jembe.2011.07.018,Alex E. Mercado-Molina,Journal of Experimental Marine Biology and Ecology,,2011,1,1,0,1,1,1,1,1
+3,Compadre,10.1890/05-0195,KATRIONA SHEA ,Ecology,Carduus nutans,2005,1,1,1,1,0,1,1,0
+3,Comadre,10.1163/15685381-00002843,J. Jaime Zú?iga-Vega,Amphibia-Reptilia ,Sceloporus grammicus ,2012,1,1,1,1,1,1,1,1
+3,Compadre,10.1007/s10531-004-0827-4,ADITI SINHA ,Biodiversity and Conservation ,Phyllanthus emblica ,2005,1,1,0,1,0,1,1,1
+3,Comadre,10.1111/j.1558-5646.2011.01366.x,Marlene Gamelon ,Evolution ,Sus scrofa scrofa ,2011,1,1,1,1,1,0,1,0
+3,Compadre,10.3159/1095-5674(2007)134[369:PEOPHO]2.0.CO,Joyce M. Reddoch ,Journal of the Torrey Botanical Society ,Platanthera hookeri ,2007,1,1,1,1,1,0,1,1
+3,Comadre,10.1007/s10980-013-9896-7,Torre J. Hovick ,Landscape Ecol ,Ammodramus savannarum ,2013,1,1,0,1,1,0,1,1
+3,Comadre,10.1111/eea.12325,Ximena Cibils-Stewart ,Entomologia Experimentalis et Applicata ,Brevicoryne brassicae ,2015,1,0,1,0,0,1,1,0
+3,Comadre,10.1017/S0376892917000340,EVAN J. PICKETT ,Environmental Conservation ,Platalea minor ,2017,0,1,1,0,0,0,1,0
+3,Compadre,10.1086/284803,WILLIAM J. PLATT ,The American Naturalist ,PINUS PALUSTRIS,1988,1,1,0,1,1,0,1,1
+3,Compadre,10.1086/510758,Diane R. Campbell ,The American Naturalist ,Ipomopsis ,2007,1,1,0,0,0,0,1,0
+3,Comadre,10.1111/j.1523-1739.2003.00191.x,E.E. Holmes,Conservation Biology,Eumetopias jubatus,2003,1,1,0,1,1,0,1,1
+3,Comadre,10.1016/S0006-3207(03)00171-X,Juan E. Mart?nez-Gomez ,Biological Conservation ,Puffinus auricularis auricularis ,2003,1,1,0,1,0,0,1,1
+3,Comadre,10.3354/meps081031,"Thomas A. Ebert l, M ",RINE ECOLOGY PROGRESS SERIES ,Strongylocentrotus franciscanus,1992,1,1,0,1,1,1,1,1
+3,Compadre,10.1111/j.1442-1984.1993.tb00062.x,Dennis F. Whigham,Plant species Biol,Cygnoglossum virginianum,1993,1,1,0,0,0,1,1,0
+3,Compadre,10.1371/journal.pone.0075563,Lucie ?erna ,PLOS ONE ,A. liliago and A. ramosum ,2013,1,1,0,1,1,1,1,0
+3,Comadre,10.1111/1365-2656.12399,Shay O’Farrell ,Journal of Animal Ecology ,Sparisoma viride ,2015,1,1,0,1,1,0,1,1
+3,Comadre,10.1111/mms.12427,ROBERT L. DELONG ,MARINE MAMMAL SCIENCE ,Zalophus californianus ,2017,1,1,0,1,1,1,1,1
+3,Compadre,10.1111/j.1365-2664.2004.00990.x,SARAH M. EMERY ,Journal of Applied Ecology ,Centaurea maculosa ,2005,1,1,1,1,1,0,1,1
+3,Compadre,10.1017/S0266467402002018,PIETER A. ZUIDEMA ,Journal of Tropical Ecology ,Bertholletia excelsa ,2001,1,1,0,1,0,1,1,1
+3,Compadre,10.1111/j.2041-210X.2011.00104.x,Justin M. J. Travis ,Methods in Ecology and Evolution ,Rhododendron ponticum ,2011,0,1,0,1,1,1,1,0
+3,Compadre,10.2307/3237044,"Abe, Shin ",Journal of Vegetation Science ,Styrax obassia ,1998,1,1,1,1,0,1,1,0
+3,Compadre,10.1111/j.1365-2745.2005.01007.x,PHILLIP J. VAN MANTGEM ,Journal of Ecology ,"Abies concolor, A. magnifica, Calocedrus decurrens, Pinus jeffreyi, ",2005,1,1,0,0,0,0,1,1
+3,Compadre,10.2307/3236906,"Tolvanen, Anne ",Journal of Vegetation Science ,"Carex aquatilis ssp. stans, Carex membranacea, and Eriophorum angustifolium ssp. trist ",2001,1,1,1,1,1,1,1,1
+3,Compadre,10.1016/j.biocon.2009.12.037,Inger Auestad ,Biological Conservation ,Pimpinella saxifraga ,2010,1,1,1,0,1,1,1,0
+3,Comadre,10.1038/s41467-018-03506-3,Joanie Van de Walle ,NATURE COMMUNICATIONS ,Ursus arctos ,2018,1,1,0,1,0,0,1,1
+3,Compadre,10.1007/s10144-009-0143-7,Piet Bremer ,Popul Ecol ,Asplenium scolopendrium ,2010,1,1,0,1,1,1,1,1
+3,Compadre,10.2307/2937136,CAROL C. HORVITZ ,Ecological Monographs,Calathea ovandensis ,1995,1,1,0,1,1,0,1,1
+3,Comadre,10.1016/S0304-3800(03)00171-6,Adam H. Freedman ,Ecological Modelling ,Ursus americanus ,2003,0,1,1,1,1,0,0,0
+3,Comadre,10.2307/2641117,DAVID B. LINDENMAYER ,Ecological Applications ,"Petauroides volans, Trichosurus caninus, Pseuidocheirus peregrinus",2000,1,1,0,0,0,1,1,0
+3,Comadre,10.1046/j.1523-1739.2003.01552.x,CARLOS CARROLL ,Conservation Biology,Canis lupus ,2003,1,1,0,1,0,1,1,0
+3,Comadre,10.1111/j.1600-0706.2011.19735.x,Carolina Perez-Heydrich ,Nordic Society Oikos ,Gopherus polyphemus,2011,0,1,1,1,1,0,0,0
+3,Compadre,10.1002/ece3.765,Rafael F. del Castillo ,Ecology and Evolution ,Catopsis compacta ,2013,1,1,0,0,0,0,1,0
+3,Comadre,10.2981/13-021,Ayaka Suzuki ,Wildl. Biol ,Lagopus muta japonica ,2013,1,1,0,1,1,1,1,1
+3,Comadre,10.2307/177030,CRAIG M. PEASE,Ecology,Ursus arctos ,1999,1,1,0,1,1,0,1,1
+3,Compadre,10.1007/s10457-011-9447-7,Eduardo Somarriba ,Agroforest Syst ,Acacia pennatula ,2012,1,1,1,1,1,1,1,1
+3,Comadre,10.1016/j.jglr.2011.11.002,Eric A. Howe ,Journal of Great Lakes Research,Petromyzon marinus,2012,1,1,1,1,1,0,1,1
+3,Comadre,10.2307/1941498,DONALD W. TINKLE,Ecology,Chrysemis picta,1981,1,1,1,0,0,1,1,1
+3,Comadre,10.1016/j.ecolmodel.2010.06.026,Ruscena Wiederholt ,Ecological Modelling ,Alouatta seniculus ,2010,1,1,0,1,1,1,1,0
+3,Comadre,10.1111/j.1365-2664.2005.01067.x,ANDRÉS J. NOVARO ,Journal of Applied Ecology,Pseudalopex culpaeus ,2005,1,1,0,1,1,1,1,1
+3,Comadre,10.1007/s00338-015-1341-8,Alex E. Mercado-Molina ,Coral Reefs ,Acropora cervicornis ,2015,1,1,0,1,1,1,1,0
+3,Compadre,10.1016/j.foreco.2016.03.028,V. Aschero ,Forest Ecology and Management ,Prosopis flexuosa ,2016,1,1,0,1,1,1,1,0
+3,Compadre,10.1007/s10144-014-0438-1,Elizabeth L. Stephens ,Popul Eco ," Chamaecrista fasciculata, Balduina angustifolia",2014,1,1,1,1,1,0,1,1
+3,Comadre,10.1046/j.1523-1739.2001.0150041102.x,D.Grant Hokit,Conservation Biology,Scleropus woodi,2001,1,1,0,1,1,1,1,0
+3,Comadre,10.2307/3808459,NEIL F. PAYNE ,Journal of Wildlife Management ,Castor canadensis,1984,1,1,0,1,0,0,1,1
+3,Compadre,10.1016/S1872-2032(08)60021-9,Liu Zhongjian ,ACTA ECOLOGICA SINICA ,Cypripedium lentiginosum ,2008,0,1,0,1,1,1,1,1
+3,Compadre,10.1890/04-1483,ANTHONY L. KOOP,Ecology ,ARDISIA ELLIPTICA ,2005,1,1,1,1,0,0,1,0
+3,Comadre,10.3354/esr00835,Samuel Pinya ,ENDANGERED SPECIES RESEARCH ,Alytes muletensis ,2017,1,1,1,1,1,0,0,1
+3,Compadre,10.1034/j.1600-0706.2003.11493.x,Christel Gustafsson ,OIKOS ,Sanicula europaea ,2003,1,1,0,1,1,0,1,1
+3,Comadre,10.1016/j.ecolmodel.2017.02.001,Madan K. Oli ,Ecological Modelling ,Dasypus novemcinctus ,2017,1,1,1,1,1,1,1,1
+3,Comadre,10.1016/j.biocon.2007.01.015,Robert H. Hilderbrand ,B IOLOG ICAL CONSERVAT ION ,Sciurus niger cinereus ,2007,0,1,0,1,0,0,1,0
+3,Comadre,10.2307/1369293,BARBARA W. MASSEY,The Cooper Ornithological Society,Sterna antillarum browni,1992,1,1,0,1,0,0,1,1
+3,Compadre,10.2307/2387694,Stephen H. Bullock ,Biotropica. ,Podococcus barter ,1980,1,1,0,1,0,1,1,1
+3,Comadre,10.1016/S0025-5564(02)00119-0,Jonathan M. Yearsley ,Mathematical Biosciences,Puffinus tenuirostris,2002,0,1,1,1,1,0,0,1
+3,Compadre,10.1016/j.biocon.2005.02.001,Vanessa M. Adams ,Biological Conservation ,Helenium virginicum ,2005,1,1,0,1,1,0,1,0
+3,Compadre,10.1007/978-94-009-2049-1_27,"P. Ang, Jr ",Hydrobiologia,Iridaea splendens,1990,0,1,0,1,0,0,1,0
+3,Comadre,10.1007/s10144-008-0075-7,Bonnie J. Ripley ,Popul Ecol ,"A. colbecki, A. islandica,G. Demissa, G. gemma, L. rubra, L. miliaris,  L. notorcadensis, P. abrupta, T. gigas, Y. notabilis",2008,0,0,0,1,1,0,0,0
+3,Compadre,10.2307/2426148,KATHLEEN H. KEELER ,The American Midland Naturalist ,Ipomoea leptophyl ,1991,1,1,0,1,0,0,1,1
+3,Compadre,10.1071/BT06032,Colin J. Yates ,Australian Journal of Botany ,Verticordia staminosa ,2007,1,1,1,1,1,1,1,1
+3,Comadre,10.1016/j.biocon.2004.01.029,Leah R. Gerber ,Biological Conservation ,"Orca, Wnadering Albatross, Gray whale, Leopard shark, Sei whale, ….",2004,0,1,0,1,0,0,0,0
+3,Compadre,10.2307/2261662,BRITA M. SVENSSON,Journal of Ecology ,"Pinguicula alpina, villosa, vulgaris",1993,1,1,1,1,0,1,1,1
+3,Compadre,10.1046/j.1523-1739.1996.10010040.x,JOELISOA RATSIRARSON ,Conservation Biology , Neodypsis decaryi,1996,1,1,0,1,1,1,1,1
+3,Compadre,10.1111/j.1365-2745.2006.01115.x,BRET D. ELDERD ,Journal of Ecology ,Mimulus guttatus ,2006,1,1,0,1,1,1,1,1
+3,Comadre,10.1163/156853808784124992,R. Isaac Rojas-González ,Amphibia-Reptilia ,Xenosaurus platyceps ,2008,1,1,0,1,1,0,1,1
+3,Comadre,10.1016/j.jhevol.2004.08.006,S.A. Wich ,Journal of Human Evolution ,Pongo abelii ,2004,1,1,0,1,1,1,1,1
+3,Comadre,10.1007/s10144-015-0499-9,M. K. L. Strauss ,Popul Ecol ,Giraffa camelopardalis ,2015,1,1,1,1,1,0,1,1
+3,Comadre,10.1111/evo.12952,Thomas Kvalnes ,Evolution ,Alces alces ,2016,1,1,1,1,1,1,1,1
+3,Compadre,10.1111/j.1365-2745.2006.01147.x,GUY COLLING ,Journal of Ecology ,Scorzonera humilis ,2006,1,1,0,1,0,1,1,1
+3,Compadre,10.1111/1365-2664.13112,Marco Andrello ,Journal of Applied Ecology ,Eryngium alpinum ,2017,1,1,0,0,0,1,1,0
+3,Comadre,10.1016/j.envpol.2013.08.031,Christopher J. Salice ,Environmental Pollution ,Chelydra serpentina ,2014,0,1,1,1,0,0,0,0
+3,Compadre,10.1016/j.biocon.2017.04.019,Hilde Hens ,Biological Conservation,E. atrorubens ,2017,1,1,1,1,1,1,1,0
+3,Comadre,10.1080/11956860.2001.11682641,Gšran ERICSSON ,ƒcoscience ,Alces alces ,2016,1,1,0,1,0,1,1,1
+3,Compadre,10.1046/j.1523-1739.1996.10020608.x,PATRICK NANTEL ,Conservation Biology,"Allium tricoccum, Panax quinquefolium ",1996,1,1,0,1,0,0,1,0
+3,Comadre,10.2193/2006-146,BRADLEY F. BLACKWELL ,The Journal of Wildlife Management ,Coragyps atratus ,1979,1,1,0,1,0,1,1,1
+3,Comadre,10.1002/jwmg.628,JENNIFER E. CHASTANT ,The Journal of Wildlife Management ,Phalacrocorax auritus ,2014,1,1,0,1,1,1,1,1
+3,Compadre,10.1007/s10144-013-0364-7,Olusegun O. Osunkoya ,Popul Ecol ,Lantana camara L. ,2013,1,1,1,1,0,1,1,0
+3,Comadre,10.2307/1935638,GRAEME CAUGHLEY ,Ecology ,Hemitragus jemlahicus,1965,1,1,0,1,1,0,1,1
+3,Comadre,10.1086/587530,N. A. Hartemink,the american naturalist ,"Ixodes ricinus, TBE, Lymes boreliosis",2008,0,1,0,1,1,0,0,0
+3,Comadre,10.1890/09-1641,CHRISTINE M. HUNTER ,Ecology ,Ursus maritimus ,2010,1,1,1,1,1,1,1,0
+3,Comadre,10.1023/B:EMAS.0000016881.12925.b1,JOSHUA J. LAWLER ,Environmental Monitoring and Assessment ,"Buteo lineatus, Accipiter gentilis",2004,0,1,0,1,0,0,1,0
+3,Comadre,10.1111/j.1748-7692.1994.tb00388.x,ANNE E. YORK ,"MARINE MAMMAL SCIENCE, ",Eumetopias jubatus,1994,1,1,0,1,0,0,1,0
+3,Compadre,10.1007/s11258-010-9749-2,Deanna L. Christensen ,Plant Ecol ,Hydrastis canadensis ,2010,1,1,1,1,1,1,1,1
+3,Comadre,10.3398/1527-0904(2007)67[492:GADOOP]2.0.CO,Angela M. Ortega-Le—n ,Western North American Naturalist ,SCELOPORUS MUCRONATUS MUCRONATUS ,2007,1,1,1,1,0,1,1,1
+3,Compadre,10.1890/13-1984.1,C. V. Haridas ,Ecological Society of America,Opuntia macrorhiza ,preprint,1,1,1,1,0,0,1,0
+3,Compadre,10.1111/j.1523-1739.2006.00368.x,KARI LEHTILA ,Conservation Biology ,Primula veris ,2006,1,1,0,1,1,0,1,1
+3,Compadre,10.1300/J091v23n01_05,Teresa Valverde ,Journal of Sustainable Forestry ,Chamaedorea elegans ,2008,1,1,0,1,1,1,1,1
+3,Comadre,10.2307/1939945,WALTER L. CLINTON2 ,Ecological Society of America ,Mirounga angustirostris ,1993,1,1,0,1,0,0,1,1
+3,Comadre,10.1016/S0304-3800(99)00145-3,Jacoby Carter ,Ecological Modelling ,Ailuropoda melanoleuca ,1999,0,1,0,1,0,0,1,0
+3,Comadre,10.5253/078.100.0208,Rob G. Bijlsma ,BioOne ,Pernis apivorus ,2012,1,1,1,1,1,1,1,1
+3,Compadre,10.3732/ajb.0900351,Anna Bucharov ‡ ,American Journal of Botany ,"Asplenium adulterinum, A. cuneifolium",2010,1,1,0,1,1,1,1,1
+3,Compadre,10.1111/j.1442-9993.1982.tb01304.x,N. J. ENRIGHT ,Australian Journal of Ecology ,Araucaria hunsteinii ,1982,0,0,0,0,0,0,1,0
+3,Compadre,10.1007/s11258-014-0344-9,Sara E. Scanga,Springer,Trollius laxus ,2014,1,1,0,0,1,0,1,0
+3,Compadre,10.1016/j.foreco.2013.05.049,Michelle M. Jackson ,Elsevier,P. lanuginosa ,2013,1,1,1,1,1,1,1,1
+3,Compadre,10.1046/j.1523-1739.1997.96159.x,JOYCE MASCHINSKI ,Conservation Biology ,Astragalus cremnophylax var. cremnophylax,1997,1,1,0,1,1,1,1,1
+3,Compadre,10.2307/2261672,KARIN BENGTS SON ,Journal of Ecology ,Fumana procumbens,1993,1,1,0,1,0,1,1,1
+3,Comadre,10.1016/j.jnc.2013.06.002,Shem D. Unger ,Elsevier,Cryptobranchus alleganiensis alleganiensis ,2013,1,1,1,1,1,0,1,1
+3,Comadre,10.1080/20018091094835,Timothy R. Gleason ,Human and Ecological Risk Assessment: An International Journal ,Pimephales promelas,2001,0,1,1,1,0,0,0,0
+3,Compadre,10.3719/weed.50.60,Paula R. Westerman ,Weed Science ,Abutilon theophrasti ,2005,1,1,0,1,1,0,1,0
+3,Comadre,10.1163/157075610X523260,Chris Klok ,Animal Biology ,Anser anser ,2010,1,1,1,1,0,1,1,1
+3,Comadre,10.1007/BF00390542,"D.,I. Brousseau ",MARINE BIOLOGY ,Mya arenaria ,1978,1,1,0,1,1,1,1,1
+3,Comadre,10.1007/BF02765226,Nigel G. YOCCOZ ,Society of Population Ecology ,Clethrionomys rufocanus,1998,1,1,0,1,1,1,1,0
+3,Comadre,10.1655/HERPETOLOGICA-D-12-00038R2,HIBRAIM A. PE« REZ-MENDOZA ,Herpetologica ,SCELOPORUS GRAMMICUS ,2013,1,1,0,1,1,1,1,1
+3,Compadre,10.1890/04-1952,CATHERINE A. PFISTER ,Ecology ,Alaria nana ,2005,1,1,1,1,1,1,1,0
+3,Compadre,10.1111/j.1654-1103.2004.tb02286.x,"Hara, M ",Journal of Vegetation Science ,"Hydrangea paniculata, Lindera umbellata, Magnolia salicifolia, Viburnum furcatum ",2004,1,1,1,1,0,1,1,1
+3,Comadre,10.2192/1537-6176-20.1.12,Masao Kohira ,BioOne ,Ursus arctos yesoensis ,2009,1,1,0,1,1,1,1,1
+3,Comadre,10.4039/Ent1051465-11,Alan A.Berryman,THE CANADIAN ENTOMOLOGIST ,SCOLYTUS VENTRALIS ,1973,1,1,0,1,1,0,1,1
+3,Compadre,10.1111/j.1523-1739.2008.01073.x,SHARMILA PATHIKONDA ,Conservation Biology,"Iris hexagona, I. Pseudacorus",2007,0,1,1,1,1,0,0,1
+3,Compadre,10.1111/j.1365-2745.2011.01910.x,James M. Bullock ,Journal of Ecology ,"Himantoglossum hircinum , Cirsium acaule, Erica ciliaris, Conyza canadensis, Lactuca serriola, Ailanthus altissima",2012,0,0,0,1,1,0,1,0
+3,Comadre,10.2307/1940983,CATHERINE S. MCFADDEN ,Ecology,Alcyonium,1991,1,1,0,1,1,1,1,1
+3,Compadre,10.1007/s11258-011-9906-2,Marianne Evju ,Plant Ecol ,Geranium sylvaticum ,2011,1,1,1,1,1,1,1,1
+3,Compadre,10.1007/s12231-014-9295-2,IGNACIO TORRES ,Economic Botany ,Agave potatorum ,2015,1,1,0,1,1,0,1,0
+3,Compadre,10.1890/ES11-00328.1,Richard P.Shefferson,Ecosphere,Cypripedium calceolus and Cephalanthera longifolia ,2012,1,1,0,1,1,0,1,0
+3,Comadre,10.1371/jourNAl.pone.0034379,Jeffrey A. Hostetler ,PLoS ONE ,Callospermophilus lateralis,2012,1,1,0,1,1,1,1,0
+3,Comadre,10.1016/j.jas.2012.04.037,HervŽ Monchot ,Journal of Archaeological Science,Hystrix refossa ,2012,0,1,1,1,1,1,1,1
+3,Comadre,10.1007/s10764-009-9332-7,Lynne A. Isbell ,Int J Primatol ,"Erythrocebus patas, Cercopithecus aethiops",2009,1,1,0,1,1,1,1,1
+3,Compadre,10.1093/aob/mcp188,Manuela Winkler ,Annals of Botany ,aethiops,2009,1,1,0,1,0,1,1,0
+3,Compadre,10.2307/2445615,PETER LESICA ,American Journal of Botany ,ARABIS FECUNDA ,1995,1,1,0,1,1,0,1,0
+3,Compadre,10.1111/j.1469-8137.1984.tb03596.x,L.A.Boorman,The New Phytologist,"Lactusa virosa, Cygnoglossum officinale",1984,1,1,1,1,0,1,1,1
+3,Comadre,10.1093/jme/tjw021,Patrick J. Hanly ,Journal of Medical Entomology ,Aedes triseriatus ,2016,0,1,1,1,0,0,0,0
+3,Comadre,10.1046/j.1523-1739.2002.00433.x,ROMAN BIEK ,Conservation Biology ,"Rana aurora, Rana temporaria, Bufo boreas",2001,0,0,0,1,1,0,0,0
+3,Comadre,10.1111/j.1365-2664.2012.02160.x,Marle`ne Gamelon ,Journal of Applied Ecology ,Sus scrofa scrofa ,2012,1,1,1,1,1,1,1,0
+3,Compadre,10.1890/09-0750,Roberto Salguero-Gomez,Evolution and Human Behavior,alot of species,2021,0,0,0,0,0,0,0,0
+3,Compadre,10.1046/j.1442-1984.1999.00007.x,Y U K O K A N E K O ,Plant Species Biology ,Aesculus turbinata ,1999,1,1,1,1,1,1,1,1
+3,Comadre,10.2307/3546090,Masahiro Nakaoka,OIKOS ,Yoldia notabilis,1997,0,0,0,1,1,0,1,0
+3,Compadre,10.1086/284796,Otto T.Solbrig,The American Naturalist ,VIOLA FIMBRIATULA ,1988,0,1,0,1,1,0,0,1
+3,Compadre,10.1007/s11258-007-9393-7,Tetsuto Abe ,Plant Ecol ,Stachyurus macrocarpus ,2008,1,1,0,1,0,1,1,1
+3,Compadre,10.1007/s10530-004-5572-9,Laura A. Hyatt ,Springer,Polygonum perfoliatum ,2006,1,1,1,1,1,0,1,1
+3,Compadre,10.1111/aec.12045,NEAL J. ENRIGHT ,Austral Ecology ,Araucaria muelleri ,2014,1,1,0,1,0,1,1,1
+3,Comadre,10.1007/s10144-011-0292-3,Natalie L. Hyslop ,Popul Ecol ,Drymarchon couperi ,2012,1,1,1,1,1,0,1,1
+3,Comadre,10.2307/1381947,JIA LUO ,American Society of Mammalogists,Spermophilus dauricus,1990,1,1,0,1,0,1,1,1
+3,Compadre,10.1111/1365-2664.12057,David P. Matlaga ,Journal of Applied Ecology ,Miscanthus x giganteus ,2013,0,1,1,1,1,0,0,0
+3,Comadre,978-1-4939-0697-0,Diego J. Lizcano ,Book,Lagothrix lagothricha lugens ,2014,1,1,1,1,1,0,1,0
+3,Compadre,10.1016/j.biocon.2004.03.019,T. Ticktin ,Biological Conservation ,Aechmea magdalenae ,2004,1,1,0,1,0,0,1,0
+3,Compadre,10.1646/1601,Martha Me«ndez ,BIOTROPICA ,Pterocereus gaumeri ,2004,1,1,0,1,1,1,1,1
+3,Compadre,10.1111/gcb.12167,NINA SLETVOLD ,Global Change Biology ,Dactylorhiza lapponica ,2013,1,1,0,1,0,1,1,0
+3,Compadre,10.1007/s00442-012-2301-4,Robert K. Shriver ,Oecologia ,Vulpicida pinastri ,2012,1,1,0,1,0,0,1,0
+3,Comadre,10.2307/2404820,E. MARBOUTIN,Journal of Applied Ecology ,Lepus europaeus ,1995,1,1,0,1,0,0,1,1
+3,Compadre,10.1046/j.1365-2664.2003.00842.x,R. P. FRECKLETON ,Journal of Applied Ecology ,Euterpe edulis ,2003,0,1,0,1,1,0,0,0
+3,Comadre,10.1016/S0304-3800(01)00433-1,Milani Chaloupka ,Ecological Modelling ,Ògreen sea turtlesÓ,2002,0,1,1,1,1,0,1,0
+3,Comadre,10.3354/meps10547,L. F. New ,MARINE ECOLOGY PROGRESS SERIES ,Mirounga leonina ,2014,1,1,0,1,0,0,1,0
+3,Comadre,10.1016/j.ecolmodel.2017.07.023,Mar’a Laura Maestri ,Ecological Modelling ,Ara glaucogularis ,2017,1,1,1,1,1,0,1,1
+3,Compadre,10.1023/B:VEGE.0000046052.35390.59,HŽctor God’nez-Alvarez ,Plant Ecology ,Neobuxbaumia macrocephala ,2004,1,1,0,1,1,1,1,1
+3,Comadre,10.2307/3801764,JOHN VAN SICKLE,Journal of Wildlife Management ,Òmammals',1987,0,1,0,1,1,0,1,0
+3,Compadre,10.1007/s00442-008-0980-7,Johannes Verhulst ,POPULATION ECOLOGY ,"Atriplex canescens, A. acanthocarpa",2008,1,1,0,1,1,1,1,0
+3,Comadre,10.1016/j.ecolmodel.2014.08.021,D.L. Lewis ,Ecological Modelling ,Ursus americanus ,2014,1,1,1,1,1,0,1,0
+3,Comadre,10.1126/science.275.5298.389,R. F. Costantino ,Science,Tribolium ,1996,0,1,0,0,0,0,0,0
+3,Comadre,10.1016/j.ecss.2015.11.012,Benjamin Tomlinson ,"Estuarine, Coastal and Shelf Science ",Pelagia noctiluca ,2015,0,1,1,1,0,0,1,0
+3,Compadre,https://doi.org/10.1002/ecs2.2706,PATRICIA A. WERNER ,Ecosphere,"Eucalyptus tetrodonta, E. miniata, and C. porrecta ",2019,1,1,1,1,1,1,1,0
+3,Comadre,10.1643/CE-14-191,Vivian P. Pa«ez ,Copeia ,Podocnemis lewyana ,2015,1,1,1,1,1,1,1,1
+3,Compadre,10.1111/j.1365-2664.2012.02117.x,Joseph T. Dauer ,Journal of Applied Ecology ,Jacobaea vulgaris ,2012,0,1,1,1,1,0,0,0
+3,Comadre,10.1890/0012-9658(2002)083[2194:PDCOPI]2.0.CO,ANNE M. BRONIKOWSK ,"Ecology, ",POECILIA RETICULATA ,2002,1,1,1,1,1,0,1,0
+3,Comadre,10.1007/s11252-016-0566-9,M. T. Makenov ,Urban Ecosyst ,stray dogs',2016,1,1,1,1,1,0,1,1
+3,Compadre,10.2216/i0031-8884-25-1-11.1,ROBERT E. DE WREEDE ,Phycologia ,Pterygophora cali/ornica ,1986,1,1,0,1,0,1,1,1
+3,Comadre,10.1890/02-5010,NATHAN H. SCHUMAKER ,Ecological Applications ,"Peocile atricapillus, Dendragapus obscurus, Lynx rufux, É.(17 in total)",2004,0,0,0,1,0,0,1,0
+3,Compadre,10.1016/j.baae.2015.02.009,Jose L. Silva ,Basic and Applied Ecology ,"Sonchus masguindalii, Sonchus fragilis and Sonchus pustulatus ",2015,1,1,0,1,1,1,1,1
+3,Compadre,10.1034/j.1600-0587.2002.250211.x,Henrik Berg ,ECOGRAPHY ,Oxalis acetosella ,2002,1,1,0,1,1,1,1,1
+3,Compadre,10.1007/s10144-017-0572-7,Rom‡nÊHern‡ndez-Pedrero ,Popul Ecol ,Furcraea parmentieri ,2017,1,1,0,1,1,1,1,1
+3,Comadre,10.1002/wmon.1012,DAVID W. HOWERTER ,Wildlife Monographs ,Anas platyrhynchos ,2014,1,1,0,1,1,1,1,1
+3,Comadre,10.1139/Z03-045,Matthew G. Mitro ,Can. J. Zool ,Malaclemys terrapin ,2003,1,1,0,1,1,0,1,1
+3,Comadre,10.1676/12-154.1,LESLEY BULLUCK ,The Wilson Journal of Ornithology ,VERMIVORA CHRYSOPTERA ,2013,1,1,0,1,1,0,1,1
+3,Compadre,10.1111/plb.12007,Z. Munzbergova ,Plant Biology ,Linum flavum and L. tenuifolium ,2013,1,1,0,1,1,0,1,0
+3,Compadre,10.1111/j.1442-9993.2006.01650.x,ALEXANDRE F. SOUZA ,Austral Ecology ,Geonoma brevispatha ,2006,1,1,1,1,1,1,1,1
+3,Compadre,10.1098/rspb.2018.1091,"Pauline O. Pantoja, ",the Royal Society ,Mimulus guttatus ,2018,1,1,0,0,0,1,1,0
+3,Compadre,10.1002/ece3.2163,Chia-Hua Lin ,Ecology and Evolution ,Dicentra canadensis ,2016,1,1,1,1,1,1,1,0
+3,Compadre,10.1890/11-0948.1,MARY BRICKER ,Ecology ,Lithospermum ruderale ,2012,1,1,1,1,1,0,1,0
+3,Compadre,10.1111/j.1523-1739.2004.00567.x,Caharles Kwit,Conservation Biology,Taxus floridana,2004,1,1,1,1,0,0,1,0
+3,Compadre,10.1007/978-94-017-1345-0_12,A. TOLVANEN ,Evolutionary Ecology ,Salix arctica ,2002,1,1,1,1,1,1,1,1
+3,Compadre,10.1007/s11258-010-9737-6,Alejandro Flores Martõ«nez ,Plant Ecol ,Mammillaria huitzilopochtli ,2010,1,1,1,1,1,1,1,1
+3,Comadre,10.1071/WR10080,Brian Chambers ,Wildlife Research ,Macropus eugenii ,2010,1,1,1,1,1,1,1,1
+3,Compadre,10.2307/2261390,J. M. BULLOCK ,Journal of Ecology ,Cirsium vulgare ,1994,1,1,1,1,1,0,1,0
+3,Compadre,10.2307/1936930,PATRICIA A. WERNER ,Ecology' ,DIPSACUS SYLVESTRIS HUDS.,1977,1,1,0,1,1,0,1,1
+3,Comadre,10.1890/0012-9658(2001)082[1921:EODROU]2.0.CO,MADAN K. OLI ,Ecology ,Spermophilus armatus ,2001,1,1,1,1,1,0,1,0
+3,Compadre,10.1086/285599,ELENA R. ALVAREZ-BUYLLA ,The American Naturalist ,Cecropia obtiisifolia,1994,1,1,1,1,1,1,1,1
+3,Comadre,10.1139/cjfas-2012-0520,Masami Fujiwara,NRC Research Press ,Epinephelus morio ,2012,0,0,1,1,1,0,0,0
+3,Comadre,10.2307/3802460,LYNN A. MAGUIRE ,Journal of Wildlife Management ,Picoides borealis,2016,1,1,0,1,1,0,1,0
+3,Comadre,10.1016/S0304-3800(99)00039-3,Wendell P. Cropper Jr. ,Ecological Modelling ,Spongia graminea ,1999,1,1,0,1,1,1,1,1
+3,Comadre,10.1642/0004-8038(2004)121[0015:MEOSAP]2.0.CO,Geoff M. Hilton,The Auk ,Gallus gallus,2004,0,1,0,0,0,0,0,0
+3,Compadre,10.3398/064.077.0108,Janice L. Hill ,Western North American Naturalist ,SILENE SPALDINGII S.WATSON ,2017,1,1,1,1,1,0,1,1
+3,Compadre,10.1890/03-0119,HELENE FREVILLE ,Ecology ,CENTAUREA CORYMBOSA ,2004,1,1,1,1,1,0,0,0
+3,Comadre,10.1017/S1367943004001593,Robert Heinsohn ,Animal Conservation ,Dugong dugon ,2004,1,1,0,1,0,0,1,0
+3,Compadre,10.1111/1365-2745.12625,Pol Capdevila,handling editor:Brian Silliman,Cystoseira zosteroides ,2016,1,1,1,1,1,1,1,0
+3,Compadre,10.1111/j.1440-6055.2006.00556.x,S Raghu ,Australian Journal of Entomology ,Parkinsonia aculeata ,2006,0,1,0,1,0,0,0,0
+3,Compadre,10.1007/s10592-010-0056-1,Florence Noe¬l ,Conserv Genet ,Brassica insularis ,2010,1,1,1,1,1,1,1,1
+3,Compadre,10.1017/S0376892914000204,TAMARA M. WONG ,Environmental Conservation ,Alyxia stellata ,2015,1,1,0,1,1,1,1,0
+3,Compadre,10.2307/2260308,PEGGY LEE FIEDLER ,Journal of Ecology ,CALOCHORTUS PURSH: LILIACEAE ,1987,1,1,0,1,1,1,1,1
+3,Compadre,10.1016/j.actao.2014.05.009,Tarin Toledo-Aceves ,Acta Oecologica ,"Tillandsia multicaulis, Tillandsia punctulata",2014,1,1,0,1,1,1,1,0
+3,Comadre,10.1016/j.crvi.2005.09.009,Jean-Baptiste Pichancourt ,C. R. Biologies ,Abax parallelepipedus ,2006,0,1,1,1,0,0,0,0
+3,Comadre,10.1007/s00442-010-1761-7,Brian R. Hudgens ,Oecologia ,Urocyon littoralis ,2011,1,1,0,1,0,1,1,0
+3,Comadre,10.2307/3803072,JOHN L. KLAVITTER ,Journal of Wildlife Management ,Buteo solitarius ,2003,1,1,0,1,1,0,1,0
+3,Compadre,10.2307/2260724,DANIELLE CHARRON ,Journal of Ecology ,PANAX QUINQUEFOLIUM ,1991,1,1,0,1,1,0,1,1
+3,Comadre,10.1890/05-0486,PURNIMA GOVINDARAJULU ,Ecological Applications ,Rana catesbeiana ,2005,1,1,1,1,1,1,1,0
+3,Comadre,10.2307/3803153,STEVEN T. HOEKMAN,The Journal of Wildlife Management. ,Anas platyrhyncho ,2002,0,1,1,1,1,0,0,0
+3,Comadre,10.1139/f05-245,Jacques Labonne ,Can. J. Fish. Aquat. Sci. ,Zingel asper ,2006,1,1,1,1,1,0,1,0
+3,Comadre,10.1093/plankt/fbv024,NATASHA HENSCHKE ,J. Plankton Res. ,Thalia democratica ,2015,1,1,1,1,1,1,1,0
+3,Compadre,10.1080/17550874.2012.662534,Raœl Garc’a-Camacho ,Plant Ecology & Diversity ,Armeria caespitosa ,2012,1,1,0,1,1,1,1,0
+3,Compadre,10.1017/S0266467400001620,SE«BASTIEN BAROT ,Journal of Tropical Ecology ,Borassus aethiopum ,2000,1,1,1,1,1,1,1,1
+3,Compadre,10.1111/j.1600-0587.2010.06250.x,Luis Gime«nez-Benavides ,Ecography ,Silene ciliata ,2011,1,1,1,1,1,1,1,1
+3,Compadre,10.1046/j.1365-2745.1999.00388.x,PATRICK NANTEL ,Journal of Ecology ,"Helianthus divaricatus, Rhus aromatica",1999,1,1,0,1,1,1,1,0
+3,Comadre,10.1046/j.1461-0248.2000.00138.x,Nicholas J.Gotelli,Ecology Letters, Solenopsis invicta,2000,1,0,0,0,0,0,1,0
+3,Compadre,10.1371/journal.pone.0102859,Raymond L. Tremblay ,PLOS ONE ,Lepanthes rupestris ,2014,1,1,1,1,1,1,1,0
+3,Comadre,10.1890/0012-9658(1997)078[1019:EOASDA]2.0.CO,Madan K. OLI ,Ecology,Spermophilus armatus ,2001,1,1,1,1,1,0,1,0
+3,Comadre,10.1017/S0950268812000167,D. T. S. HAYMAN ,Epidemiol. Infect ,Eidolon helvum ,2012,1,1,0,0,0,0,1,1
+3,Comadre,10.1890/08-0305.1,PETER C. SAKARIS ,Ecological Applications ,Pylodictis olivaris ,2010,1,1,0,1,1,0,1,0
+3,Comadre,10.1155/2015/987060,Alberto M. Sabat ,Journal of Marine Biology ,Gorgonia ventalina ,2015,0,1,0,1,1,0,0,1
+3,Comadre,10.1016/S0006-3207(02)00341-5,Mark Hebblewhite ,Biological Conservation ,Ursus americanus ,2003,1,1,1,1,1,0,1,1
+3,Comadre,10.1016/j.biocon.2013.09.005,Jennyffer Cruz,Biological Conservation ,"Charadrius bicinctus, Anarhynchus frontalis,  Chlidonias albostriatus, Himantopus novaezelandiae",2013,1,1,0,1,1,1,1,1
+3,Comadre,10.1007/s00442-011-1931-2,Erin K. Grey ,Oecologia ,Botrylloides violaceus ,2010,1,1,1,1,1,1,1,0
+3,Compadre,10.1007/bf02806475,Zuzana Miinzbergovfi ,Folia Geobotanica ,Scorzonera hispanica ,2006,1,1,0,1,0,1,1,1
+3,Compadre,10.1890/07-1128.1,JAMES M. BULLOCK ,Ecological Applications ,Rhinanthus minor ,2008,1,1,0,1,1,1,1,0
+3,Compadre,10.1016/j.ecolmodel.2012.07.022,Christie A. Klimas ,Ecological Modelling,Carapa guianensis ,2012,1,1,1,1,1,1,1,1
+3,Comadre,10.1007/s10441-009-9090-0,Mansour Serghini ,Acta Biotheor ,Sardina pilchardus ,2009,1,1,1,1,1,1,1,0
+3,Compadre,10.1016/j.biocon.2006.07.012,Joyce Maschinski ,BIOLOGICAL CONSERVATION ,Pseudophoenix sargentii ,2006,1,1,0,1,0,0,1,1
+3,Compadre,10.1111/j.1744-7429.2009.00615.x,Lesley S. Rigg ,BIOTROPICA ,Araucaria laubenfelsii ,2010,1,1,0,1,1,1,1,1
+3,Comadre,10.1515/mamm.1984.48.3.327,W.A. RODGERS ,Mammalia ,Phacochoerus aethiopicus ,1984,1,1,0,1,1,1,1,1
+3,Comadre,10.2307/1934778,C. A. SPINAGE,Ecology,"Aepyceros melampus, Syncerus ",1972,1,1,0,1,0,0,1,1
+3,Compadre,10.2478/s11756-009-0002-1,Rolf Lutz Eckstein ,Biologia ,"Viola elatior, V. pumila, and V. stagnina ",2009,1,1,0,1,1,0,1,1
+3,Compadre,10.1016/j.jaridenv.2011.01.015,R.M. Portilla-Alonso ,Journal of Arid Environments,Coryphantha werdermannii,2011,1,1,0,1,1,0,1,1
+3,Compadre,10.1111/1365-2664.12217,Silvia Winter ,Journal of Applied Ecology ,Colchicum autumnale ,2014,1,1,1,1,1,1,1,0
+3,Comadre,10.1890/08-2060.1,STEVEN E. MCMURRAY ,Ecology ,Xestospongia muta ,2010,1,1,0,1,1,1,1,1
+3,Compadre,10.1086/297607,Sandra K. Floyd ,Int. J. Plant Sci. ,GAURA NEOMEXICANA SSP. COLORADEN ,1998,1,1,0,1,1,0,1,1
+3,Comadre,10.1086/597225,Arpat Ozgul ,the american naturalist ,Marmota flaviventris ,2009,1,1,1,1,1,1,1,0
+3,Compadre,10.1016/j.biocon.2011.12.012,Marco Andrello,Biological Conservation ,Eryngium alpinum ,2012,1,1,1,1,1,0,1,0
+3,Compadre,10.1111/j.1095-8339.2007.00628.x,JOAN PINO ,Botanical Journal of the Linnean Society ,Kosteletzkya pentacarpos ,2007,1,1,1,1,0,1,1,0
+3,Compadre,10.2307/2679864,MARiA C. MANDUJANO,Ecology,Opuntia rastrera ,2001,1,1,1,1,1,1,1,1
+3,Compadre,10.1111/j.1365-2745.2005.00958.x,LOURENS POORTER ,Journal of Ecology,Tachigali vasquezii ,2005,1,1,,,,1,1,
+3,Comadre,10.1111/j.1469-1795.2007.00105.x,L. Zambrano ,Animal Conservation ,Ambystoma mexicanum ,2007,1,1,0,1,1,0,1,0
+3,Comadre,10.2307/3803419,Nina H. Fefferman ,Wildlife Society ,"Tympanuchus cupid , Picoides borealis",2006,0,1,0,1,0,0,0,1
+3,Compadre,10.1007/s10144-015-0519-9,Tristan Lemke ,Popul Ecol ,Trollius europaeus ,2015,1,1,0,1,1,1,1,0
+3,Comadre,10.1890/0012-9615(2001)071[0377:RAODRT]2.0.CO,Evan Cooch,Ecological Monographs,Anser c. caerulescens,2001,1,1,1,1,1,1,1,0
+3,Comadre,10.3354/meps10377,R. JimŽnez-Melero ,MARINE ECOLOGY PROGRESS SERIES ,Arctodiaptomus salinus ,2013,1,1,1,1,1,0,1,1
+3,Comadre,10.1139/Z08-124,J.J. Zuniga-Vega,Can. J. Zool ,Sceloporus grammicus ,2008,1,1,1,1,1,1,1,1
+3,Comadre,10.1016/j.biocon.2003.11.002,Michael Schaub ,Biological Conservation ,Ciconia ciconia ,2003,1,1,0,1,1,0,1,0
+3,Compadre,10.1023/A:1008623521755,Jer« ome Degreef ,Genetic Resources and Crop Evolution ,Phaseolus lunatus L. ,1997,1,1,1,1,0,1,1,0
+3,Comadre,10.1007/s00442-015-3222-9,Albert Fern‡ndez-Chac—n ,Oecologia ,Salmo trutta ,2015,1,1,1,1,1,1,1,0
+3,Comadre,10.1111/j.0908-8857.2008.04189.x,Kari Koivula ,J. Avian Biol. ,Calidris temminckii ,2008,1,1,1,1,1,1,1,0
+3,Comadre,10.1016/j.ecolmodel.2003.06.007,Robert G. Wallace ,Ecological Modelling ,HIV,2003,0,1,1,1,1,0,0,1
+3,Comadre,10.1890/07-0018.1,STEVEN R. BEISSINGER ,Ecological Monographs ,Amazona vittata,2008,1,1,1,1,1,0,1,0
+3,Compadre,10.1023/A:1015506019670,Katariina Kiviniemi ,Plant Ecology ,"Agrimonia eupatoria, Geum rivale",2002,1,1,1,1,1,1,1,1
+3,Comadre,10.1016/j.biocon.2014.05.026,Varun R. Goswami ,Varun R. Goswami ,Elephas maximus ,2014,0,1,0,1,1,0,0,0
+3,Comadre,10.1890/02-0409,JEAN-MICHEL GAILLARD ,Ecology ,"Odocoileus hemionus , Rangifer tarandus granti, Rangifer tarandus, É",2003,0,1,0,1,1,0,0,0
+3,Compadre,10.1111/j.1365-3180.2009.00703.x,CPD Borger,European Weed Research Society,Salsola australis,2008,1,1,1,1,1,0,1,0
+3,Compadre,10.1016/j.biocon.2006.10.038,Cecilia Jime«nez-Sierra ,BIOLOGICAL CONSERVATION ,Echinocactus platyacanthus ,2007,1,1,1,1,1,1,1,1
+3,Compadre,10.1111/j.1365-2664.2005.01015.x,JOHAN EHRLƒN ,Journal of Applied Ecology ,Primula veris ,2005,1,1,0,1,1,0,1,0
+3,Compadre,10.1111/j.1529-8817.2010.00924.x,Vasco Manuel Nobre de Carvalho da Silva Vieira ,Phycological Society of America ,Gelidium sesquipedale ,2010,1,1,1,1,1,0,0,0
+3,Compadre,10.1016/j.foreco.2008.02.041,Nicolas Picard ,Forest Ecology and Management ,Entandrophragma cylindricum ,2008,1,1,0,1,1,1,1,0
+3,Comadre,10.14430/arctic1733,F.Messier,Arctic,Rangifer tarandus,1988,1,1,0,1,1,1,1,1
+3,Compadre,10.1890/02-5219,ALAN B. GRIFFITH ,Ecological Applications ,AESCHYNOMENE VIRGINICA ,2005,1,1,0,1,0,0,1,0
+3,Comadre,10.1086/285729,MARIA E. ORIVE ,The American Naturali ,"Goniastrea aspera, Goniastrea favulus, and Platygyra sinensi",1995,0,1,1,1,1,0,0,0
+3,Compadre,10.1111/j.1523-1739.2011.01691.x,DEMETRIA MONDRAGON CHAPARRO ,Conservation Biology ,"Tillandsia macdougallii, T. violaceae",2011,1,1,0,1,1,1,1,0
+3,Compadre,10.1016/j.ecolmodel.2005.07.020,Dmitrii O. Logofet ,Ecological Modelling ,Calamagrostis canescens ,2006,0,1,1,1,1,1,1,0
+3,Comadre,10.2193/2008-093,JASON S. GREAR ,The Journal of Wildlife Management ,Gavia immer ,2009,1,1,1,1,1,0,1,0
+3,Compadre,10.2307/2260717,JUAN F. SILVA,Journal of Ecology ,ANDROPOGON SEMIBERBIS,1991,0,1,1,1,1,1,1,0
+3,Comadre,10.1111/nrm.12034,Maija Holma,NATURAL RESOURCE MODELING ,Halichoerus grypus ,2014,0,0,0,1,0,0,1,1
+3,Comadre,10.1111/j.1365-2656.2005.00975.x,TIM COULSON ,Journal of Animal Ecology ,bighorn sheep ,2005,1,0,0,1,0,0,1,0
+3,Comadre,10.2307/1447431,Stanley F. Fox,American Society of Ichthyologists and Herpetologists,Uta stansburiana,1998,1,0,0,0,0,0,0,0
+3,Compadre,10.2307/1933696,WARREN F. STEENBERGH,Ecology ,CEREUS GIGANTE US,1969,1,1,0,0,0,1,1,1
+3,Comadre,10.1093/icesjms/fsu056,Wen-Pei Tsai,ICES Journal of Marine Science,Isurus oxyrinchus,2014,1,1,1,1,1,1,1,1
+3,Compadre,10.1007/s12080-017-0353-0,Charlotte de Vries ,Theor Ecol ,Lathyrus vernus ,2017,0,0,0,1,1,0,0,0
+3,Compadre,10.1016/j.foreco.2010.11.007,L.B. Fortini ,Forest Ecology and Management ,Mora paraensis ,2011,1,1,0,1,1,0,1,1
+3,Comadre,10.1002/etc.5620210425,Anne Kuhn,Environmental Toxicology and Chemistry,Ampelisca abdita,2002,1,1,1,1,1,0,1,1
+3,Compadre,10.1016/j.tpb.2006.05.003,Alan Hastings ,Theoretical Population Biology ,Spartina alterniflora ,2006,0,1,0,1,0,0,1,1
+3,Comadre,10.1111/j.1365-2656.2006.01118.x,GILLIAN L. HADLEY ,Journal of Animal Ecology ,Weddell seals ,2006,1,1,0,1,1,1,1,0
+3,Comadre,10.1007/s10144-012-0306-9,Christian Kerbiriou,Popul Ecol ,Fulmarus glacialis,2012,1,1,1,1,1,1,1,0
+3,Compadre,10.1046/j.1365-2699.2000.00187.x,JUAN F. SILVA,Global Ecology & Biogeography,"Espeletia timotensis, E. spicata",2000,0,1,1,1,0,1,1,1
+3,Comadre,10.1016/0304-3800(93)E0081-D,A.L. Jensen ,Ecological Modelling ,Odocoileus virginianus borealis ,1995,0,1,0,1,1,0,1,1
+3,Comadre,10.2980/1195-6860(2007)14[362:LHOFRS]2.0.CO,Andrew G. McADAM ,Ecoscience,Tamiasciurus hudsonicus,2007,1,1,1,1,1,1,1,1
+3,Compadre,10.1086/507877,Matthew J. Kauffman ,the american naturalist ,Lupinus arboreus,2006,1,1,0,1,1,0,1,0
+3,Compadre,10.1007/s00442-013-2876-4,James O. Eckberg ,Oecologia ,C. vulgare ,2014,1,1,0,1,1,0,1,0
+3,Compadre,10.1016/j.biocon.2005.07.022,Gerhard Zotz ,B IOLOG ICAL CONSERVAT ION ,Aspasia principissa ,2006,1,1,0,1,0,1,1,1
+3,Comadre,10.3354/meps234229,Jana L. D. Davis ,Marine ecology progress series,Clinocottus analis ,2002,1,1,1,1,1,1,1,1
+3,Compadre,10.1046/j.1365-3180.1998.00068.x,J. Pino,Weed research,Rumex obtusifolius,1998,1,1,1,1,1,0,1,0
+3,Comadre,10.2307/1382951,MAURICIO LIMA ,Journal of Mammalogy ,Arctocephalus australis,1997,1,1,0,1,1,1,1,1
+3,Compadre,10.1890/09-0480.1,ANDREA P. LOAYZA ,Ecology ,Guettarda viburnoides ,2010,1,1,1,1,1,1,1,1
+3,Comadre,10.1016/j.fishres.2008.11.006,Eduardo Gonz‡lez-Olivares ,Fisheries Research ,Genypterus blacodes ,2009,1,1,1,1,0,0,1,0
+3,Compadre,10.1139/B03-099,HelŽne Fršborg ,Can. J. Bot. ,Actaea spicata ,2003,1,1,1,1,1,1,1,1
+3,Comadre,10.1021/es049654o,C. Thomas Chandler,Environ. Sci. Technol.,Amphiascus tenuiremis,2004,0,1,1,1,0,0,0,0
+3,Comadre,10.1016/S1631-0691(03)00148-3,Guillaume Chapron ,Ecology ,Canis lupus ,2003,0,1,1,1,0,0,1,1
+3,Comadre,10.1890/0012-9658(2000)081[2250:RFLHAL]2.0.CO,TERENCE P. HUGHES,"Ecology, ","Montastrea annularis, Agaricia agaricites, and Leptoseris cucullata ",2000,1,1,0,1,1,0,1,1
+3,Compadre,10.2307/2401258,M. B. USHER ,Journal of Applied Ecology ,Scots pine ,1966,0,1,0,1,1,0,1,1
+3,Comadre,10.2307/1939879,LISA A. LEVIN ,Ecology ,STREBLOSPIO BENEDICTI,1987,0,1,0,1,1,1,1,0
+3,Compadre,10.1017/S0266467409990599,Maur«õcio Bonesso Sampaio ,Journal of Tropical Ecology ,Geonoma schottiana ,2010,1,1,0,1,1,1,1,0
+3,Compadre,10.2307/3236803,Eriksson,Journal of Vegetation Science,Plantago media,2000,1,1,1,1,0,0,1,1
+3,Comadre,10.1890/04-1688,LAURA ROGERS-BENNETT ,Ecological Applications ,Haliotis rufescens ,2006,1,1,0,1,1,1,1,0
+3,Comadre,10.2307/2402601,J. HARWOOD ,Journal of Applied Ecology ,Halichoerus grypu ,1978,0,0,0,1,0,0,0,0
+3,Compadre,10.1111/j.1365-2745.2007.01279.x,PATRICK ENDELS ,Journal of Ecology ,Primula vulgaris ,2007,1,1,0,1,1,0,1,0
+3,Comadre,10.1086/physzool.30.4.30152211,PETER W. FRANK ,Physiological Zoology ,Daphnia magna,1957,1,1,0,1,1,0,0,0
+3,Comadre,10.1071/wr9850541,Anthony M. A. Smith ,Aust. Wildl. Res. ,Crocodylus johnstoni,1985,1,1,0,1,0,0,1,1
+3,Compadre,10.1111/j.1442-1984.1987.tb00030.x,Eiichiro Kinoshita,Plant Species Biology ,Arisaema serratum,1987,1,1,1,1,1,0,1,1
+3,Compadre,10.1007/BF00042253,Thomas A. Ebert ,Vegetatio ,Betula nana L. ,1989,1,1,1,1,1,1,1,1
+3,Compadre,10.1111/wre.12075,T Hyvonen,European Weed Research Society,"Amaranthus retroflexus, Echinochloa crus-galli",2013,1,1,1,1,0,1,1,0
+3,Comadre,10.1111/j.1095-8649.2007.01445.x,P. M. BUSTON ,Journal of Fish Biology ,Amphiprion percula ,2007,1,1,0,1,0,1,1,1
+3,Comadre,10.1890/11-0488.1,HENRY S. CARSON ,Ecology ,"Mytilus californianus, M. galloprovincialis",2011,1,1,1,1,1,1,1,1
+3,Compadre,10.1007/s11258-004-0026-0,Patrick Endels ,Plant Ecology ,Primula veris ,2005,1,1,0,1,0,1,1,1
+3,Compadre,10.1016/j.foreco.2005.02.052,Susana Rodrõ«guez-Buritica ,Forest Ecology and Management ,Geonoma orbignyana ,2005,1,1,1,1,1,0,1,1
+3,Comadre,10.1890/ES10-00065.1,R. HERNA« NDEZ-PACHECO ,Ecoshpere,Montastraea annularis ,2011,1,1,0,1,1,1,1,1
+3,Comadre,10.1111/j.1365-2656.2012.02029.x,Viktoriia Radchuk ,Journal of Animal Ecology ,Boloria eunomia ,2012,1,1,0,1,1,0,0,0
+3,Compadre,10.1016/j.foreco.2008.11.018,Tiffany M. Knight ,Forest Ecology and Management ,Odocoileus virginianus ,2009,1,1,1,1,1,0,1,0
