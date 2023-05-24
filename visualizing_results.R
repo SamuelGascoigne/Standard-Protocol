@@ -68,7 +68,7 @@ summary_survey_results <- survey_results |>
   group_by(statement, response) |> 
   dplyr::summarize(total_response = n())
 
-# Now, let's plot the data
+# Figure 1 plot
 
 plot <- summary_survey_results |> 
   ggplot(aes(x = response , y = statement)) +
@@ -129,7 +129,7 @@ plot <- summary_survey_results |>
                                     fill = NA,
                                     size = 1)) +
   guides(size = guide_legend(label.position = "bottom"))
-plot # 650x700
+plot # 650x700 (dimensions the plot was printed with)
 
 # Now let's draft the screen graphs
 # Here I am using Daisy's preliminary data from 20220606
